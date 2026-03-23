@@ -1,0 +1,2206 @@
+{
+    "pagination": {
+        "total": 131552,
+        "limit": 10,
+        "offset": 0,
+        "total_pages": 13156,
+        "current_page": 1,
+        "next_url": "https://api.artic.edu/api/v1/artworks?page=2&limit=10"
+    },
+    "data": [
+        {
+            "id": 143563,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/143563",
+            "is_boosted": false,
+            "title": "Ogboni Chief's Textile",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAB8eJSAfJiklKSglKi0oKy0oLDQoKDQpLDkqKjguLTgvLTgsLj4wMz8xMz0zMj4zM0A1NEA1NUlJTkpKT0tKT01NUU5NUU9PU1dSVF9aXWJSUGJQUmRTVGdVVmdYVm1bW2pjYmtnaXVpaXZxcXhxcXxycoV4dod9fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAIAAUAAAYjwNBkWCmOMoGCQEAAYEiJRyTyOIBKiOgjYRCdPB/OprMxBQEAOw==",
+                "width": 11600,
+                "height": 8700,
+                "alt_text": "A work made of cotton, indigo dyed; sixteen strips of plain weave, joined by hand stitching; embroidered with wool in chain stitches; edged with cotton, buttonhole stitched uncut fringe."
+            },
+            "main_reference_number": "1995.424",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1900,
+            "date_end": 1950,
+            "date_display": "Early-mid-20th century",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Iwo Yoruba\nNigeria",
+            "place_of_origin": "Nigeria",
+            "description": "<p>An elder of the Ogboni council\u2014a sociopolitical society of the Iwo Yoruba in Nigeria\u2014would have worn this elaborately embroidered textile during important ceremonies and moments of significant transition, like the coronation or burial of a king. The Yoruba believe in the sacred unity of three cosmic spheres, expressed in the three bands of designs that decorate the garment. The birds symbolize the ability to hover above and move between spiritual and earthly realms. In this composition they also represent \u00ccy\u00e0mi, women who wield spiritual powers of elemental creation, destruction, and healing.</p>\n",
+            "short_description": null,
+            "dimensions": "162.5 \u00d7 275.6 cm (64 \u00d7 108 1/2 in.); Approximate strip: W.: 10 cm (4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 275,
+                    "height": 162,
+                    "diameter": null,
+                    "clarification": null
+                },
+                {
+                    "depth": null,
+                    "width": 10,
+                    "height": null,
+                    "diameter": null,
+                    "clarification": "Approximate strip"
+                }
+            ],
+            "medium_display": "Cotton, indigo dyed; sixteen strips of plain weave, joined by hand stitching; embroidered with wool in chain stitches; edged with cotton, buttonhole stitched uncut fringe",
+            "inscriptions": null,
+            "credit_line": "O. Renard Goltra Fund",
+            "catalogue_display": null,
+            "publication_history": "Moyo Okediji, \"Art of the Yoruba,\"African Art at The Art Institute of Chicago, Museum Studies 23, 2 (1997): 171-2, cat. 27 (ill.).\n\nKathleen Bickford Berzock, \"African Art at the Art Institute of Chicago,\" African Arts 32 (Winter 1999): 35 (ill.).\n\nFolayemi Wilson, \"Of Water and Sky Along a Fibered Path,\" in On Loss and Absence: Textiles of Mourning and Survival, eds. Isaac Facio, Nneka Kai, L Vinebaum, and Anne Wilson, exh. cat. (Chicago: Art Institute of Chicago, 2025), 68-69, fig. 1 (ill.).",
+            "exhibition_history": "Art Institute of Chicago, Department of Africa, Oceania, and the Americas, Apr. 11\u2013Aug. 6, 1996.\n\nArt Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, <a href=\"https://www.artic.edu/exhibitions/9772/on-loss-and-absence-textiles-of-mourning-and-survival\"><em>On Loss and Absence: Textiles of Mourning and Survival</em></a>, Sept. 6, 2025\u2013Mar. 15, 2026, cat.",
+            "provenance_text": "Unknown owner, Iwo, Nigeria [research in curatorial object file]. Eric Robertson, Robertson African Arts, New York, by Nov. 20, 1995 [invoice, item no. 9508, Nov. 20, 1995, copy in curatorial object file]; sold to the Art Institute of Chicago, 1995.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 4,
+            "fiscal_year": 1996,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 336,
+                "l": 32,
+                "s": 64,
+                "percentage": 6.183617052233377e-05,
+                "population": 51
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Textile",
+            "artwork_type_id": 5,
+            "department_title": "Textiles",
+            "department_id": "PC-14",
+            "artist_id": 120388,
+            "artist_title": "Iwo Yoruba",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                120388
+            ],
+            "artist_titles": [
+                "Iwo Yoruba"
+            ],
+            "category_ids": [
+                "PC-14"
+            ],
+            "category_titles": [
+                "Textiles"
+            ],
+            "term_titles": [
+                "yoruba",
+                "plain weaving",
+                "cotton (textile)",
+                "textile",
+                "needlework (visual works)",
+                "embroidering",
+                "Arts of Africa",
+                "arts of Africa",
+                "african",
+                "indigo",
+                "fringe",
+                "wool (textile)",
+                "dyeing",
+                "fringed",
+                "Coastal West Africa",
+                "African Textiles"
+            ],
+            "style_id": "TM-6181",
+            "style_title": "yoruba",
+            "alt_style_ids": [
+                "TM-14183",
+                "TM-5999",
+                "TM-13566"
+            ],
+            "style_ids": [
+                "TM-6181",
+                "TM-14183",
+                "TM-5999",
+                "TM-13566"
+            ],
+            "style_titles": [
+                "yoruba",
+                "Arts of Africa",
+                "african",
+                "Coastal West Africa"
+            ],
+            "classification_id": "TM-69",
+            "classification_title": "textile",
+            "alt_classification_ids": [
+                "TM-83",
+                "TM-14182",
+                "TM-16069"
+            ],
+            "classification_ids": [
+                "TM-69",
+                "TM-83",
+                "TM-14182",
+                "TM-16069"
+            ],
+            "classification_titles": [
+                "textile",
+                "needlework (visual works)",
+                "arts of Africa",
+                "African Textiles"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2578",
+            "alt_material_ids": [
+                "TM-3398",
+                "TM-3464",
+                "TM-2581"
+            ],
+            "material_ids": [
+                "TM-2578",
+                "TM-3398",
+                "TM-3464",
+                "TM-2581"
+            ],
+            "material_titles": [
+                "cotton (textile)",
+                "indigo",
+                "fringe",
+                "wool (textile)"
+            ],
+            "technique_id": "TM-10513",
+            "alt_technique_ids": [
+                "TM-3914",
+                "TM-4293",
+                "TM-10554"
+            ],
+            "technique_ids": [
+                "TM-10513",
+                "TM-3914",
+                "TM-4293",
+                "TM-10554"
+            ],
+            "technique_titles": [
+                "plain weaving",
+                "embroidering",
+                "dyeing",
+                "fringed"
+            ],
+            "theme_titles": [],
+            "image_id": "6bd62c36-b607-23d5-5faa-b2da237901e1",
+            "alt_image_ids": [
+                "9cbf20fb-3d17-43ff-c24e-eca002ee5010",
+                "d5a4950f-5912-bd79-9fde-e2773c314b4d",
+                "1b8f0d36-1bea-ef09-84de-b1ae05135045",
+                "addebc9b-9097-9bd6-70af-b28adf973a4b",
+                "d65c754c-13fc-5476-091d-5f591ac58f4c"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1995.424"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Ogboni Chief's Textile"
+                    ],
+                    "weight": 341,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T01:01:22-05:00",
+            "updated_at": "2026-03-22T04:05:28-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 160028,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/160028",
+            "is_boosted": false,
+            "title": "Rainbow People Have Arrived (N\u00e1\u00e1ts\u2019\u00ed\u00edlid Bee Yik\u00e1h)",
+            "alt_titles": [],
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAAgFBgwKCg0MDBIREjAlGjMpHzAqHzsuG0Q1KV1RR2ZcVmpeVHhnVnlnVn5uXIp2Xod0ZIZ3Z4t7aYp5apJ9a5B/cJGDd5WFd5iKfgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIPYsTSUdAgEpwIBQkREU0+UkjBUCADs=",
+                "width": 4817,
+                "height": 4873,
+                "alt_text": "A work made of wool, dovetail and single interlocking tapestry weave; edges finished with three strand weft twining with four knotted corner tassels."
+            },
+            "main_reference_number": "2002.299",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1915,
+            "date_end": 1935,
+            "date_display": "About 1925",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Hastiin T\u0142a (Left-Handed Man; also known as Hosteen Klah), (Din\u00e9 (Navajo), 1867\u20131937)",
+            "place_of_origin": "Navajo Nation, Arizona, New Mexico, & Utah",
+            "description": "<p>Hastiin T\u0142a was a Medicine Man specializing in healing chants. In this tapestry based on a sand painting, he depicted the last morning of the nine-day Nightway Chant for healing, although he may have intentionally omitted a symbolic item included in the original painting. The four pairs of Rainbow People are guardians that keep the patient safe. Each consists of a female with a square head and male with a round head, both holding spruce branches and feathers. They stand atop a stone in one of the Din\u00e9\u2019s sacred, ceremonial colors: shell-white for the east, turquoise-blue for the south, abalone-yellow for the west, and jet-black for the north. Two Holy People and their spirits trail across the sky, indicating that the healing is done.<br>\u2014Lynda Teller Pete, fifth-generation Din\u00e9 tapestry weaver</p>\n",
+            "short_description": null,
+            "dimensions": "172.2 \u00d7 160.8 cm (67 3/4 \u00d7 63 1/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 160,
+                    "height": 172,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Wool, dovetail and single interlocking tapestry weave; edges finished with three strand weft twining with four knotted corner tassels",
+            "inscriptions": null,
+            "credit_line": "Ada Turnbull Hertle Endowment",
+            "catalogue_display": null,
+            "publication_history": "Richard Townsend with Elizabeth Pope, <em>Indian Art of the Americas at the Art Institute of Chicago</em> (Chicago: Art Institute of Chicago, 2016), 90, cat. 67.\n\nLynda Teller Pete and Barbara Teller Ornelas, \"The Enduring Beauty of Din\u00e9 Textiles,\" in On Loss and Absence: Textiles of Mourning and Survival, eds. Isaac Facio, Nneka Kai, L Vinebaum, and Anne Wilson, exh. cat. (Chicago: Art Institute of Chicago, 2025), 191, fig. 5 (ill.).",
+            "exhibition_history": "Art Institute of Chicago, African and Amerindian Art, Gallery 136, Apr. 17-Aug. 11, 2015.\n\nArt Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, <a href=\"https://www.artic.edu/exhibitions/9772/on-loss-and-absence-textiles-of-mourning-and-survival\"><em>On Loss and Absence: Textiles of Mourning and Survival</em></a>, Sept. 6, 2025\u2013Mar. 15, 2026, cat.",
+            "provenance_text": "The artist [this and the following according letter from Philip Cohen, Sherwoods Gallery; June 21, 2002; in curatorial object file]; sold to Mrs. Harold S. Gladwin (died 1983), Globe, AZ, then Santa Barbara, CA, 1920s/1930s; given to the Museum of Northern Arizona, Flagstaff, AZ, 1958; deaccessioned, May 2002; sold through Steven Diamant, Direct Art/Fine Arts of the Southwest, Santa Fe, NM [The Arizona Republic, Apr. 26, 2005]. Philip Cohen, Sherwoods Sprit of America Gallery, Santa Fe, NM, by July 22, 2002 [Invoice S 2798, item SF1034,  July 22, 2002; incoming permanent receipt, RX23745, Aug. 5, 2002; copies in curatorial object file]; sold to the Art Institute of Chicago, 2002.",
+            "edition": null,
+            "publishing_verification_level": "Web Everything",
+            "internal_department_id": 4,
+            "fiscal_year": 2003,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 30.0091,
+            "color": {
+                "h": 39,
+                "l": 46,
+                "s": 72,
+                "percentage": 0.0034766694619089143,
+                "population": 25
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Textile",
+            "artwork_type_id": 5,
+            "department_title": "Textiles",
+            "department_id": "PC-14",
+            "artist_id": 99073,
+            "artist_title": "Hastiin T\u0142a",
+            "alt_artist_ids": [
+                33295
+            ],
+            "artist_ids": [
+                33295,
+                99073
+            ],
+            "artist_titles": [
+                "Navajo (Din\u00e9)",
+                "Hastiin T\u0142a"
+            ],
+            "category_ids": [
+                "PC-14"
+            ],
+            "category_titles": [
+                "Textiles"
+            ],
+            "term_titles": [
+                "weaving",
+                "wool (textile)",
+                "navajo",
+                "textile",
+                "dine",
+                "indigenous Art",
+                "indigenous",
+                "north american",
+                "native american",
+                "native north american",
+                "hazardous substance"
+            ],
+            "style_id": "TM-7407",
+            "style_title": "navajo",
+            "alt_style_ids": [
+                "TM-12964",
+                "TM-15441",
+                "TM-15303",
+                "TM-13794",
+                "TM-6983",
+                "TM-12986"
+            ],
+            "style_ids": [
+                "TM-7407",
+                "TM-12964",
+                "TM-15441",
+                "TM-15303",
+                "TM-13794",
+                "TM-6983",
+                "TM-12986"
+            ],
+            "style_titles": [
+                "navajo",
+                "dine",
+                "indigenous Art",
+                "indigenous",
+                "north american",
+                "native american",
+                "native north american"
+            ],
+            "classification_id": "TM-159",
+            "classification_title": "weaving",
+            "alt_classification_ids": [
+                "TM-69"
+            ],
+            "classification_ids": [
+                "TM-159",
+                "TM-69"
+            ],
+            "classification_titles": [
+                "weaving",
+                "textile"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2581",
+            "alt_material_ids": [
+                "TM-3753"
+            ],
+            "material_ids": [
+                "TM-2581",
+                "TM-3753"
+            ],
+            "material_titles": [
+                "wool (textile)",
+                "hazardous substance"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "1691b0cd-f178-efa1-7606-9b39efd4faee",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2002.299"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Rainbow People Have Arrived (N\u00e1\u00e1ts\u2019\u00ed\u00edlid Bee Yik\u00e1h)"
+                    ],
+                    "weight": 1038,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T01:01:22-05:00",
+            "updated_at": "2026-03-22T04:05:27-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 180298,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/180298",
+            "is_boosted": true,
+            "title": "Ceremonial Hanging (Palepai)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhEwAFAPYAAE42J044J0s0KEw1KE02KE82KU44Kk05LFA2KFA3KFE4KFI4KFA4KlE5KlM7KlA6LlE6Lk89M1I8MVI9MVA/MlY9MVU/MVNDMlJCM1VAMVRAM1ZBMldBM1ZDM1dDM1ZEMlZDNVVENFZENFhDMVhDM1pGNFhHNlpHNl1IM11JNV1KNVxIOVxLPWFKMGJMPFxLQWJSRHxybYJ2boR4boJ2cIJ3cIN3cIJ3cYJ3coJ3c4R5coR5c4N6d4d9d4Z8eIR8eoh+epyWlZ6YmJ6ZmZ2Ymp6Zm5+am5+bm5+cnqCbmqKcm6CbnKOdnaCdoKahoKeioaqmpqimqKyoqayrr62rr66sr6+sr6+usgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAATAAUAAAddgFNNSEeFhUlLS0xMSkJBR0lVUS8aJiYUISEUFCMjJiAmHxorT1UwDxotFygjFCAVFSkXKRoPLlBTLAEMA7y9BwYIAwgADAwaT1c/MTc7PT9AQDw5Ozc3MjM3OVKBADs=",
+                "width": 11432,
+                "height": 3112,
+                "alt_text": "Large rectangle of fabric, geometric shapes depicting ship and people, in red, blue and yellow."
+            },
+            "main_reference_number": "2002.914",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1801,
+            "date_end": 1900,
+            "date_display": "19th century",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Paminggir people\nLampung area, South Sumatra, Indonesia",
+            "place_of_origin": "Indonesia",
+            "description": "<p>The Paminggir aristocracy employed a type of ritual hanging commonly known as a ship cloth, a name that refers to one of the principal motifs of such textiles. These hangings display a very limited repertoire of patterns, including one or two red ships, a single blue ship, tree images, buildings, and rows of stylized anthropomorphic figures. The indigenous name for textiles of this type, <em>palepai</em>, probably goes back to the old Javanese word <em>lepih</em>, which means \u201cto fold\u201d or \u201cto double.\u201d <em>Palepai</em> served as markers of status and perhaps even denoted descent. Indeed, title, claim to leadership, and certain other privileges accompanied the possession of <em>palepai</em>. These textiles were also important requisites during rites of passage, such as marriage, death, or accession to a higher rank\u2014events that were thought to be unstable moments fraught with danger. The ship images that appear on this <em>palepai</em> would have indicated an appropriate agent of safe conduct from one stage of life to another. The red vessels are also understood to represent the upper world, the abode of the ancestors, which can be reached by the ship of death. Since the Lampung economy was based on sea trade, ships served as symbols of wealth and power as well.</p>\n",
+            "short_description": null,
+            "dimensions": "Without fringe: 67 \u00d7 296.6 cm (26 3/8 \u00d7 116 3/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 296,
+                    "height": 67,
+                    "diameter": null,
+                    "clarification": "Without fringe"
+                }
+            ],
+            "medium_display": "Cotton, silk, and silver-leaf-over-lacquered-paper-strip-wrapped bast fiber (probably ramie), plain weave with supplementary patterning and brocading wefts, main warp fringe",
+            "inscriptions": null,
+            "credit_line": "Gift of E. M. Bakwin Indonesian Textile Collection",
+            "catalogue_display": null,
+            "publication_history": "Brigitte Kahn Majlis, \"Behind the Warps and Wefts: Indonesian Textiles in Context,\" The Art of Indonesian Textiles: The E. M. Bakwin Collection at the Art Institute of Chicago, Art Institute of Chicago Museum Studies, 33 no. 2 (2007): 33-34, cat. 5.\n\nFolayemi Wilson, \"Of Water and Sky Along a Fibered Path,\" in On Loss and Absence: Textiles of Mourning and Survival, eds. Isaac Facio, Nneka Kai, L Vinebaum, and Anne Wilson, exh. cat. (Chicago: Art Institute of Chicago, 2025), 74-75, fig. 5 (ill.).",
+            "exhibition_history": "Art Institute of Chicago, Galleries 108-109, The Art of Indonesian Textiles: The E. M. Bakwin Collection at the Art Institute of Chicago, Dec. 1, 2007\u2013Mar. 2, 2008, cat.\n\nArt Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, <a href=\"https://www.artic.edu/exhibitions/9772/on-loss-and-absence-textiles-of-mourning-and-survival\"><em>On Loss and Absence: Textiles of Mourning and Survival</em></a>, Sept. 6, 2025\u2013Mar. 15, 2026, cat.",
+            "provenance_text": "E.M. (Pete) Bakwin, Chicago, IL, by Jan. 22, 2002 [E.M. Bakwin Collection of Indonesian Textiles, inventory EMB-1518-R; incoming receipt RX23940, Jan. 22, 2003; copy in curatorial object file]; given to the Art Institute of Chicago, 2002.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 4,
+            "fiscal_year": 2003,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 336,
+                "l": 55,
+                "s": 1,
+                "percentage": 2.810853402077063e-05,
+                "population": 10
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Religious/Ritual Object",
+            "artwork_type_id": 24,
+            "department_title": "Textiles",
+            "department_id": "PC-14",
+            "artist_id": 43520,
+            "artist_title": "Paminggir",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                43520
+            ],
+            "artist_titles": [
+                "Paminggir"
+            ],
+            "category_ids": [
+                "PC-14",
+                "PC-831"
+            ],
+            "category_titles": [
+                "Textiles",
+                "Essentials"
+            ],
+            "term_titles": [
+                "boats",
+                "plain weaving",
+                "indonesian",
+                "paper (fiber product)",
+                "textile",
+                "figures (representations)",
+                "seas",
+                "waves",
+                "weaving",
+                "silk (fiber)",
+                "ritual objects"
+            ],
+            "style_id": "TM-5545",
+            "style_title": "indonesian",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-5545"
+            ],
+            "style_titles": [
+                "indonesian"
+            ],
+            "classification_id": "TM-69",
+            "classification_title": "textile",
+            "alt_classification_ids": [
+                "TM-159",
+                "TM-12318"
+            ],
+            "classification_ids": [
+                "TM-69",
+                "TM-159",
+                "TM-12318"
+            ],
+            "classification_titles": [
+                "textile",
+                "weaving",
+                "ritual objects"
+            ],
+            "subject_id": "TM-8737",
+            "alt_subject_ids": [
+                "TM-12283",
+                "TM-12286",
+                "TM-11233"
+            ],
+            "subject_ids": [
+                "TM-8737",
+                "TM-12283",
+                "TM-12286",
+                "TM-11233"
+            ],
+            "subject_titles": [
+                "boats",
+                "figures (representations)",
+                "seas",
+                "waves"
+            ],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-3688"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-3688"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "silk (fiber)"
+            ],
+            "technique_id": "TM-10513",
+            "alt_technique_ids": [],
+            "technique_ids": [
+                "TM-10513"
+            ],
+            "technique_titles": [
+                "plain weaving"
+            ],
+            "theme_titles": [
+                "Essentials"
+            ],
+            "image_id": "ca9c6ee4-58a1-38fa-362f-b00f9a5996d4",
+            "alt_image_ids": [
+                "03b3c996-6df5-7393-e676-101f52555895",
+                "7d1e6ed7-f5b8-fce0-36b5-1dafa237c382",
+                "a397761b-9a43-c9e7-7789-65259b03152b",
+                "f5e5116f-a0d1-2f1d-a2ac-5319325a0213",
+                "a903b35b-64e9-4cba-a0a5-29ec591e801a"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_boosted": "Ceremonial Hanging (Palepai)",
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2002.914"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Ceremonial Hanging (Palepai)"
+                    ],
+                    "weight": 710,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T01:01:22-05:00",
+            "updated_at": "2026-03-22T04:05:26-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 180305,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/180305",
+            "is_boosted": false,
+            "title": "Ceremonial Hanging (Palepai)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhEQAFAPYAAEA3KkI5KkE5LEI4LEM6LUM6LkU7LEQ7LUc8LEs9K1pFKlxFLl9FL19IK19HMF9LMGRGJ2pIJ2xIJm1KJ2NHKGNIKmRJK2JJLGJKLWRKLGRJLmVOL2hJKWpMKmlNLHJMJmxQL3BTLmNJMGNLMWRLMGJMMGZNMGZOMGVOM2ZQNWhTOGlUO3BVNYp/cot/c41/cI1/cYx/cox/c4p/dI+AcYyAc4+Aco2BdI6BdY2Cd46CdpCBcZCEdpCEeJOGeZKHfJKHfZOHfZOIfZOIfpOIf5aLgZaMgpONh5SOh5eSjJiVk5mWk5mWlKKfnaOfnaShnqajogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAARAAUAAAdUgE0tMDUtNTA7MDM1NTw4MDhPSykNICEZEx8cFhETEB0UCklLKyUnLCckIiInDgwMGRsPSEwqHhgIBLoHBwQAAQkVFUdQRj4+ODg/Qz/NQ89DRU2BADs=",
+                "width": 11600,
+                "height": 3433,
+                "alt_text": "A work made of cotton, silk, gold-leaf-over-lacquered-paper strip wrapped bast fiber (probably ramie), and silver-leaf-over-lacquered-paper strip wrapped cotton, plain weave with supplementary brocading wefts."
+            },
+            "main_reference_number": "2002.920",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1801,
+            "date_end": 1900,
+            "date_display": "19th century",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Paminggir people \nLampung area, South Sumatra, Indonesia",
+            "place_of_origin": "Indonesia",
+            "description": "<p>The Paminggir aristocracy employed a type of ritual hanging commonly known as a ship cloth, a name that refers to one of the principal motifs of such textiles. These hangings display a very limited repertoire of patterns, including one or two red ships, a single blue ship, tree images, buildings, and rows of stylized anthropomorphic figures. The indigenous name for textiles of this type, <em>palepai</em>, probably goes back to the old Javanese word <em>lepih</em>, which means \u201cto fold\u201d or \u201cto double.\u201d <em>Palepai</em> served as markers of status and perhaps even denoted descent. Indeed, title, claim to leadership, and certain other privileges accompanied the possession of <em>palepai</em>. These textiles were also important requisites during rites of passage, such as marriage, death, or accession to a higher rank\u2014events that were thought to be unstable moments fraught with danger. The ship images that appear on this <em>palepai</em> would have indicated an appropriate agent of safe conduct from one stage of life to another. The red vessels are also understood to represent the upper world, the abode of the ancestors, which can be reached by the ship of death. Since the Lampung economy was based on sea trade, ships served as symbols of wealth and power as well.</p>\n",
+            "short_description": null,
+            "dimensions": "246.3 \u00d7 60.8 cm (97 \u00d7 23 7/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 60,
+                    "height": 246,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Cotton, silk, gold-leaf-over-lacquered-paper strip wrapped bast fiber (probably ramie), and silver-leaf-over-lacquered-paper strip wrapped cotton, plain weave with supplementary brocading wefts",
+            "inscriptions": null,
+            "credit_line": "Gift of E. M. Bakwin Indonesian Textile Collection",
+            "catalogue_display": null,
+            "publication_history": "Brigitte Kahn Majlis, \"Behind the Warps and Wefts: Indonesian Textiles in Context,\" The Art of Indonesian Textiles: The E. M. Bakwin Collection at the Art Institute of Chicago, Art Institute of Chicago Museum Studies, 33 no. 2 (2007): 15, fig. 6 (ill.).\n\nFolayemi Wilson, \"Of Water and Sky Along a Fibered Path,\" in On Loss and Absence: Textiles of Mourning and Survival, eds. Isaac Facio, Nneka Kai, L Vinebaum, and Anne Wilson, exh. cat. (Chicago: Art Institute of Chicago, 2025), 75 , fig. 6 (ill.).",
+            "exhibition_history": "Art Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, <a href=\"https://www.artic.edu/exhibitions/9772/on-loss-and-absence-textiles-of-mourning-and-survival\"><em>On Loss and Absence: Textiles of Mourning and Survival</em></a>, Sept. 6, 2025\u2013Mar. 15, 2026, cat.",
+            "provenance_text": "E.M. (Pete) Bakwin, Chicago, IL, by Jan. 22, 2002 [E.M. Bakwin Collection of Indonesian Textiles, inventory EMB-5650-R; incoming receipt RX23940, Jan. 22, 2003; copy in curatorial object file]; given to the Art Institute of Chicago, 2002.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 4,
+            "fiscal_year": 2003,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 38,
+                "l": 51,
+                "s": 24,
+                "percentage": 0.00013308958686983336,
+                "population": 53
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Religious/Ritual Object",
+            "artwork_type_id": 24,
+            "department_title": "Textiles",
+            "department_id": "PC-14",
+            "artist_id": 43520,
+            "artist_title": "Paminggir",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                43520
+            ],
+            "artist_titles": [
+                "Paminggir"
+            ],
+            "category_ids": [
+                "PC-14"
+            ],
+            "category_titles": [
+                "Textiles"
+            ],
+            "term_titles": [
+                "paper (fiber product)",
+                "textile",
+                "indonesian",
+                "weaving",
+                "silk (fiber)",
+                "ritual objects"
+            ],
+            "style_id": "TM-5545",
+            "style_title": "indonesian",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-5545"
+            ],
+            "style_titles": [
+                "indonesian"
+            ],
+            "classification_id": "TM-69",
+            "classification_title": "textile",
+            "alt_classification_ids": [
+                "TM-159",
+                "TM-12318"
+            ],
+            "classification_ids": [
+                "TM-69",
+                "TM-159",
+                "TM-12318"
+            ],
+            "classification_titles": [
+                "textile",
+                "weaving",
+                "ritual objects"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-3688"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-3688"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "silk (fiber)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "886633b7-21fe-5004-f43c-23ca16128c5b",
+            "alt_image_ids": [
+                "f2ef8172-06fc-7dea-837b-a8ad1c083645",
+                "ebcc3132-bcaa-3562-4ed9-be29d480fd98",
+                "7906c622-05f1-b9f7-3016-6505ed72e26a",
+                "c462c6af-ede6-3870-0f1a-a938181d0ab3"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2002.920"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Ceremonial Hanging (Palepai)"
+                    ],
+                    "weight": 47,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T01:01:22-05:00",
+            "updated_at": "2026-03-22T04:05:25-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 22,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/22",
+            "is_boosted": false,
+            "title": "Villa Pamphili outside Porta S. Pancrazio, from Views of Rome",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFZQSWFaU2JcVG1lXG5nXnBoX3BpYHFpYHFqYHVtY3RtZHdwZnhxZnhxZ3lxZ4J6cIN7cIN7cYV9coZ+c4d/dId/dYmAdqCYi6GZi6SbjrKombasnresnretnreuoMa8rc7Ds9/UwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQA2nA9p8QpYHJDNxXCqKwSFR8EQCAARBQJEYFpiGgBEEADs=",
+                "width": 4373,
+                "height": 3164,
+                "alt_text": "A work made of etching on heavy ivory laid paper."
+            },
+            "main_reference_number": "1887.255",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1776,
+            "date_end": 1776,
+            "date_display": "1776, published 1800\u201307",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Giovanni Battista Piranesi (Italian, 1720-1778)\npublished by Francesco (Italian, 1758-1810) and Pietro Piranesi (Italian, born 1758/9)",
+            "place_of_origin": "Italy",
+            "description": null,
+            "short_description": null,
+            "dimensions": "Image: 49 \u00d7 70.3 cm (19 5/16 \u00d7 27 11/16 in.); Plate: 49.5 \u00d7 71 cm (19 1/2 \u00d7 28 in.); Sheet: 51.6 \u00d7 71.8 cm (20 3/8 \u00d7 28 5/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 70,
+                    "height": 49,
+                    "diameter": null,
+                    "clarification": "Image"
+                },
+                {
+                    "depth": null,
+                    "width": 71,
+                    "height": 49,
+                    "diameter": null,
+                    "clarification": "Plate"
+                },
+                {
+                    "depth": null,
+                    "width": 71,
+                    "height": 51,
+                    "diameter": null,
+                    "clarification": "Sheet"
+                }
+            ],
+            "medium_display": "Etching on heavy ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Elizabeth Hammond Stickney Collection",
+            "catalogue_display": "<p>Hind 124 I/III</p><p>Focillon 840</p><p>Marini 124</p><p>Ficacci 995</p><p>Wilton-Ely 257</p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 12.4697,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 36210,
+            "artist_title": "Giovanni Battista Piranesi",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                36210
+            ],
+            "artist_titles": [
+                "Giovanni Battista Piranesi"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "etching",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-18",
+            "classification_title": "etching",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-18",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "etching",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "a76844cc-cec8-6026-5609-50d3961aed4c",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1887.255"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Villa Pamphili outside Porta S. Pancrazio, from Views of Rome"
+                    ],
+                    "weight": 204687,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:51-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 4758,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/4758",
+            "is_boosted": true,
+            "title": "Stoke-by-Nayland",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADYpHTcwHzIrID8tIDgyIT0yJjs0JDw1Jj40J0I3JkE4KUY8Lkk8LUk/L0xDL1JJMlpJNFhLNVhJNmVYO1pfXW1hQ2dlVX93XGtsZHFvYXp7bGpxcG16gHSBh3eJk4mXnZqjoaKyu7zJygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwI4nBLJoKpyPKEO4PCgbTMAxMSgiC8EhAUA0JBBGYRAEADs=",
+                "width": 8690,
+                "height": 6397,
+                "alt_text": "Large English country landscape painting, farmers with horses, green trees."
+            },
+            "main_reference_number": "1922.4453",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1836,
+            "date_end": 1836,
+            "date_display": "1836",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "John Constable (English, 1776-1837)",
+            "place_of_origin": "England",
+            "description": "<p>\u201cWhat say you to a summer morning?\u201d John Constable wrote of this painting in a letter to a friend. Even after many years living in London, Constable continued to portray the countryside, dear to him from boyhood. Stoke-by-Nayland lies a few miles from his native village of East Bergholt in Suffolk. In this view, he divided the canvas between a brilliant, airy vista toward the hamlet on the left and a shady, tunnel-like country lane leading off to the right. Constable explained in his letter that the painting depicted a speci\ufb01c time, a morning in \u201cJuly or August, at eight or nine o\u2019clock, after a slight shower during the night, to enhance the dews in the shadowed part of the picture.\u201d The artist emphasized the abundance of water through his painting technique, \ufb02ecking the surface with white highlights to create an effect of sparkling wetness. Here, the whole scene appears dewy, with a stream and puddles in the foreground and a central tree that droops from the weight of rainwater, emphasizing the fertile land.</p>\n<p>Painted as much with a palette knife as with brushes, <em>Stoke-by-Nayland</em> lacks the \ufb01nish of pictures Constable exhibited publicly; it was meant as a full-scale sketch for a work that he never realized. Nonetheless, this canvas seems to capture Constable\u2019s delight in freely scribbling and scraping the image into existence\u2014what it lacks in detail it gains in atmosphere. The roughness of the surface evokes the textures of real landscape, and the coexistence of natural and built elements in the scene embodies an ideal of harmony indicative of Constable\u2019s vision of rural England.</p>\n",
+            "short_description": "John Constable produced this full-size oil sketch for an unrealized painting near the end of his life. Its subject\u2014the countryside of Constable's youth in Suffolk, England\u2014was one of the artist's favorites. To achieve the effect of sparkling wetness and fresh earth and air, Constable painted with a palette knife, flecking the surface with white highlights as he sketched and scraped the picture into existence.",
+            "dimensions": "126 \u00d7 169 cm (49 5/8 \u00d7 66 1/2 in.); Framed: 170.2 \u00d7 212.1 \u00d7 16.6 cm (67 \u00d7 83 1/2 \u00d7 6 1/2 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 169,
+                    "height": 126,
+                    "diameter": null,
+                    "clarification": null
+                },
+                {
+                    "depth": 16,
+                    "width": 212,
+                    "height": 170,
+                    "diameter": null,
+                    "clarification": "Framed"
+                }
+            ],
+            "medium_display": "Oil on canvas",
+            "inscriptions": null,
+            "credit_line": "Mr. and Mrs. W. W. Kimball Collection",
+            "catalogue_display": null,
+            "publication_history": "C[harles] R[obert] Leslie, Memoirs of the Life of John Constable, Esq. R. A. (London: James Carpenter, 1843), 104\u2013105.\n\nC. J. Holmes, Constable and his Influence on Landscape Painting (Westminster: Archibald Constable, 1902), 249\n\n\u201cAccessions and Loans: August\u2013November,  1922,\u201d Bulletin of the Art Institute of Chicago (Dec. 1922), 98.\n\nMarguerite B. Williams, \u201cValuable Collection of Paintings Added to Chicago\u2019s Art Treasures,\u201d America Today\u2013Fort Dearborn Magazine (1924): 10\u201311, 26.\n\nA Guide to the Paintings in the Permanent Collection (Chicago: Art Institute, 1925), 131 no. 750.\n\n\u201cConstable\u2019s Stoke-by-Nayland,\u201d Bulletin of the Art Institute of Chicago (April 1926), 51\u201353.\n\nKimball Gallery of Paintings: 17th to 19th century (Chicago: Art Institute, nd), 37\u201338.\n\nCharles Holmes, \u201cMr. Shirley on Lucas and the Lucas Constable,\u201d Burlington Magazine 58 (May 1931): 253\n\nA Guide to the Paintings in the Permanent Collection (Chicago: Art Institute, 1932), 89 (ill.).\n\nC. H. Collins Baker, British Painting (London: The Medici Society, 1933), 160 (ill.).\n\nAlfred M. Frankfurter, \u201cArt in the Century of Progress,\u201d The Fine Arts (June 1933): 26 (ill.), 61.\n\nR. H. Wilenski, English Painting (London: Faber and Faber, 1933), pl. 115, 218.\n\nA Century of Progress Exhibition of Paintings and Sculpture, exh. cat. (Chicago: Art Institute, 1933), 30 cat. 190.\n\nA Century of Progress Exhibition of Paintings and Sculpture, exh. cat. (Chicago: Art Institute, 1934), 24 cat. 136.\n\nA Brief Illustrated Guide to the Collections (Chicago: Art Institute, 1935), 26.\n\nC[harles] R[obert] Leslie, Memoirs of the Life of John Constable, R. A., Andrew Shirley, ed.  (London, The Medici Society, 1937), 339, pl. 124a.\n\nA Brief Illustrated Guide to the Collections (Chicago: Art Institute, 1941), 32.\n\nAn Exhibition of Paintings, Drawings and Prints by J. M. W. Turner, John Constable, R. P. Bonington, exh. cat. (Boston, Museum of Fine Arts, 1946, 51\u201352 under cat. 146.\n\nMasterpieces of English Painting: William Hogarth, John Constable, J. M. W. Turner, exh. cat. (Chicago: Art Institute, 1946), 32 cat. 44, pl. 25.\n\nMartin Davies, The British School (London: National Gallery, 1946), 31\u201332.\n\nAndrew Shirley, John Constable, R.A. (London, The Medici Society, 1948), 25 no. 124a, pl. 124a.\n\nAndrew Shirley, The Rainbow: A Portrait of John Constable (London: Michael Joseph, 1949), 199\u2013200.\n\nAn Illustrated Guide to the Collections of the Art Institute of Chicago (Chicago: Art Institute, 1956), 31 (ill.), 32.\n\nA Brief Guide to the Collections (Chicago: Art Institute, 1956), 32.\n\nAndrew Carnduff Richie, Masters of British Painting, 1800\u20131950, exh. cat. (New York: Museum of Modern Art, 1956), 30, 33 (ill.), 135 cat. 27.\n\nHelen Comstock, \u201cConstable in America,\u201d  The Connoisseur 137, no. 544 (June 1956): 285\n\nJohn Canaday, Mainstreams of Modern Art (New York: Henry Holt, 1959), 265 fig. 312, 267\u201368. [2nd ed. New York: Holt, Rinehart and Winston, 1981, p. 90\u201391 fig. 106, 92\u201393.\n\nGraham Reynolds, Catalogue of the Constable Collection (London: Her Majesty\u2019s Stationery Office,  1960), 195.\n\nPaintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago: Art Institute, 1961), 82, 237 (ill.).\n\nGraham Reynolds, Constable: The Natural Painter (New York; Toronto; London: McGraw-Hill, 1965), 130, 146 no. 78, pl. 78.\n\nSketches by Constable from the Victoria and Albert Museum (Washington, D.C.: Smithsonian Institution, 1966), 13.\n\nFrederick A. Sweet, \u201cGreat Chicago Collectors,\u201d Apollo (Sep. 1966): 193 fig. 11, 196. \n\nR. B. Beckett, ed., John Constable\u2019s Correspondence, vol. 5, Various Friends, with Charles Boner and the Artist\u2019s Children (Suffolk: Suffolk Records Society, 1967), 44\u201345\n\nJohn Maxon, The Art Institute of Chicago (New York: Harry N. Abrams, 1970), 264 (ill.), 279\n\nKatherine Kuh, \u201cThese are a few of my favorite things,\u201d Chicago Tribune, April 23, 1972, 33 (ill.), 34.\n\nBasil Taylor, Constable: Paintings, Drawings and Watercolors (London: Phaidon Press, 1973), no. 63 pl. 165.\n\nM. Rosenthal, \u201cReview: Catalogue of the Constable Collection\u2026\u201d Connoisseur 186 (June 1974): 151.\n\nRobert Hoozee, L\u2019opera completa di John Constable (Milan: Rizzoli, 1979), 145 no. 564 (ill.).\n\nJohn Morse, Old Master Paintings in North America: Over 3,000 Masterpieces by 50 Great Artists (Nw York: Abbeville Press, 1979), 56.\n\nGraham Reynolds, Constable\u2019s England, exh. cat. (New York: Metropolitan Museum of Art, 1983), 166 cat. 60 (ill).\n\nLeslie Parris, The Tate Gallery Constable Collection (London: Tate Gallery, 1987), 63 fig. 7, 64, 64n6.\n\nCharles S. Rhyne, \u201cConstable\u2019s Last Major Oil Sketch: The Chicago \u2018Stoke-by-Nayland\u2019,\u201d unpublished manuscript, [1987?].\n\nLawrence Cunningham and John Reich, Culture and Values: A Survey of the Western Humanities, vol. 2 (New York: Holt, Rinehart and Winston, 1982), 316, 317 fig. 203.\n\nMichael Rosenthal, Constable: The Painter and his Landscapes (New Haven and London: Yale University Press, 1983), 236, fig. 263.\n\nGraham Reynolds, The Later Paintings and Drawings of John Constable, 2 vols. (New Haven and London: Yale University Press, 1984), v. 1, 292 no. 36.19; v. 2, pl. 1070.\n\nIan Leming-Williams and Leslie Parris, The Discovery of Constable (London: Hamish Hamilton, 1984), 80, 114\u201315.\n\nRichard R. Brettell and Steven Starling, The Art of the Edge: European Frames 1300-1900, exh. cat. (Chicago: Art Institute, 1986), 104 cat. 59, inaccurately numbered 1922.4433.\n\nMalcolm Cormack, Constable (London: Cambridge University Press, 1986), 225 fig. 213, 228.\n\nJames N. Wood and Katherine C. Lee, Master paintings in the Art Institute of Chicago (Chicago: Art Institute of Chicago, 1988), 50.\n\nIan Fleming-Williams, Constable and his Drawings (London: Philip Wilson Publishers, 1990), 299\u2013301 fig. 277.\n\nCharles S. Rhyne, \u201cConstable\u2019s First Two Six-foot Landscapes,\u201d in Studies in the History of Art 24 (Hanover and London: University Press of New England, 1990), pl. 2, 119\u201321, 125n3, 128n45.\n\nLeslie Paris and Ian Fleming-Williams, Constable, exh. cat. (London: Tate Gallery, 1991), 15,348, 359, 380\u201381 cat. 218, 472.\n\nMalcolm Warren, \u201cJohn Constable,\u201d unpublished manuscript, [1992?].\n\nJon Margolis, \u201cWhen Paintings talk\u2026,\u201d Chicago Tribune Magazine (Sep. 17, 1995): 21\n\nJohn Gage, Constable: le choix de Lucian Freud, exh cat. (Paris: R\u00e9union des mus\u00e9es nationaux, 2002), 256 (detail ill.), 257, 267\u201368 cat. 190.\n\nLucian Freud and William Feaver, Lucian Freud on John Constable, exh. cat. (London: British Council, 2003), 54, cat. 50.\n\nAnne Lyles, Constable: The Great Landscapes, exh. cat. (London: Tate, 2006), 193 cat. 68 (ill.).\n\nWilliam Feaver, \u201cI was Lucian Freud\u2019s spare pair of eyes,\u201d The Guardian, Sep. 8, 2019 <a href=\"https://www.theguardian.com/artanddesign/2019/sep/08/i-was-lucian-freuds-spare-pair-of-eyes\">https://www.theguardian.com/artanddesign/2019/sep/08/i-was-lucian-freuds-spare-pair-of-eyes</a> [accessed Sep. 16, 2019]\n\nJames Rondeau, ed., Paintings at the Art Institute of Chicago: Highlights of the collection (New Haven and London: Yale University Press, 2025), 57 (ill.).\n\nAmy Concannon, ed., Turner and Constable: Rivals and Originals, exh. cat. (London: Tate, 2025), 50, 209, 218, 243, cat. 176.",
+            "exhibition_history": "Art Institute of Chicago, A Century of Progress, June 1\u2013Nov. 1, 1933, cat. 190.\n\nArt Institute of Chicago, A Century of Progress, June 1\u2013Nov. 1, 1934, cat. 136.\n\nArt Institute of Chicago, Masterpiece of the Month, April 1940, no cat.\n\nArt Institute of Chicago, Masterpieces of English Painting: Hogarth, Constable, Turner, Oct. 15\u2013Dec. 22, 1946.\n\nNew York, Museum of Modern Art, Masters of British Painting, 1800\u20131950, Oct. 2\u2013Dec. 2, 1956, cat. 27; St. Louis, City Art Museum, Jan. 10\u2013Mar. 2, 1957; San Francisco, California Palace of the Legion of Honor, Mar. 28\u2013May 12, 1957 [New York only].\n\nNew York, Metropolitan Museum of Art, Constable's England, Apr. 13\u2013Sep. 4, 1983.\n\nArt Institute of Chicago, The Art of the Edge: European Frames 1300-1900, Oct. 17\u2013Dec. 14, 1986, cat. 59, inaccurately numbered 1922.4433.\n\nLondon, Tate Gallery, John Constable, June 12-Sep. 15, 1991, cat. 218.\n\nParis, Galeries Nationales du Grand Palais, Constable: le choix de Lucian Freud, Oct. 8, 2002\u2013Jan. 13, 2003, cat. 190.\n\nLondon, Tate Britain, Constable: The Great Landscapes, June 1\u2013Aug. 28, 2006, cat. 68; Washington, D.C., the National Gallery, Oct. 1\u2013 Dec. 31, 2006; San Marino, Huntington Library, Feb. 3\u2013Apr. 29, 2007.\n\nLondon, Tate Britain, Turner and Constable: Rivals and Originals, November 27, 2025\u2013April 12, 2026, cat. 176, as c. 1835\u20137.",
+            "provenance_text": "Sold, the artist\u2019s estate sale, Foster and Sons, London, May 16, 1838, lot 40 together with a sketch of the Opening of Waterloo Bridge to Joy [Graves 1918 and Day 1968]. Miss Morris; sold June 26, 1860 lot 108 to Cox [annotated sale cat. in the Nederlands Instituut voor Kunstgeschiedenisn, The Haag; copy in curatorial object file. See also Redford 1888]. Jonathan Nield (1790\u20131887), Dunster House, Rochdale, England; sold, Christie\u2019s, London, May 3, 1879, lot 13 to Permain [annotated sale cat. in curatorial object file. See also Redford 1888, Graves 1918 and Day 1968]. Sir Frederick Thorpe Mappin (1821\u20131910); sold, his estate sale, Christie\u2019s, London, June 17, 1910, lot 14 to Arthur J. Sulley & Company, London [this and the following according to Knoedler Stock Book 5, no. 12466, Getty Research Institute, Los Angeles; copy in curatorial object file. See also annotated sale cat. in curatorial object file ]; sold to  Knoedler and Company, New York, May 1, 1911; sold to Mrs. William Wallace Kimball (died 1921), Chicago, July 11, 1911; given to the Art Institute of Chicago, 1922.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 14,
+            "fiscal_year": 1923,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": true,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 22.2475,
+            "color": {
+                "h": 39,
+                "l": 49,
+                "s": 34,
+                "percentage": 0.004974553246852639,
+                "population": 26
+            },
+            "latitude": 41.8799469546176,
+            "longitude": -87.6234873756766,
+            "latlon": "41.879946954618,41.879946954618",
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan to Tate Britain in London for <i>Turner and Constable: Two Visions of Landscape</i></p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Painting",
+            "artwork_type_id": 1,
+            "department_title": "Painting and Sculpture of Europe",
+            "department_id": "PC-10",
+            "artist_id": 34023,
+            "artist_title": "John Constable",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                34023
+            ],
+            "artist_titles": [
+                "John Constable"
+            ],
+            "category_ids": [
+                "PC-10",
+                "PC-831"
+            ],
+            "category_titles": [
+                "Painting and Sculpture of Europe",
+                "Essentials"
+            ],
+            "term_titles": [
+                "oil on canvas",
+                "19th century",
+                "oil painting",
+                "oil paint (paint)",
+                "landscapes",
+                "gates",
+                "countryside",
+                "british",
+                "oil paintings (visual works)",
+                "paint",
+                "paint",
+                "painting",
+                "painting",
+                "painting techniques",
+                "painting (image making)",
+                "canvas",
+                "painting",
+                "european painting",
+                "Century of Progress",
+                "world's fairs",
+                "Chicago World's Fairs",
+                "ploughs",
+                "wagons",
+                "plants",
+                "trees",
+                "towns",
+                "houses",
+                "cows",
+                "horses",
+                "farmers",
+                "farm life",
+                "rural life"
+            ],
+            "style_id": "TM-13203",
+            "style_title": "19th century",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13203"
+            ],
+            "style_titles": [
+                "19th century"
+            ],
+            "classification_id": "TM-66",
+            "classification_title": "oil on canvas",
+            "alt_classification_ids": [
+                "TM-15669",
+                "TM-78",
+                "TM-10387",
+                "TM-9",
+                "TM-54"
+            ],
+            "classification_ids": [
+                "TM-66",
+                "TM-15669",
+                "TM-78",
+                "TM-10387",
+                "TM-9",
+                "TM-54"
+            ],
+            "classification_titles": [
+                "oil on canvas",
+                "british",
+                "oil paintings (visual works)",
+                "paint",
+                "painting",
+                "european painting"
+            ],
+            "subject_id": "TM-8657",
+            "alt_subject_ids": [
+                "TM-12671",
+                "TM-12243",
+                "TM-12169",
+                "TM-11299",
+                "TM-12176",
+                "TM-12816",
+                "TM-12815",
+                "TM-12058",
+                "TM-11205",
+                "TM-12677",
+                "TM-12493",
+                "TM-8862",
+                "TM-8804",
+                "TM-12341",
+                "TM-12105",
+                "TM-12814"
+            ],
+            "subject_ids": [
+                "TM-8657",
+                "TM-12671",
+                "TM-12243",
+                "TM-12169",
+                "TM-11299",
+                "TM-12176",
+                "TM-12816",
+                "TM-12815",
+                "TM-12058",
+                "TM-11205",
+                "TM-12677",
+                "TM-12493",
+                "TM-8862",
+                "TM-8804",
+                "TM-12341",
+                "TM-12105",
+                "TM-12814"
+            ],
+            "subject_titles": [
+                "landscapes",
+                "gates",
+                "countryside",
+                "Century of Progress",
+                "world's fairs",
+                "Chicago World's Fairs",
+                "ploughs",
+                "wagons",
+                "plants",
+                "trees",
+                "towns",
+                "houses",
+                "cows",
+                "horses",
+                "farmers",
+                "farm life",
+                "rural life"
+            ],
+            "material_id": "TM-2451",
+            "alt_material_ids": [
+                "TM-2577",
+                "TM-13502",
+                "TM-3124"
+            ],
+            "material_ids": [
+                "TM-2451",
+                "TM-2577",
+                "TM-13502",
+                "TM-3124"
+            ],
+            "material_titles": [
+                "oil paint (paint)",
+                "paint",
+                "painting",
+                "canvas"
+            ],
+            "technique_id": "TM-4273",
+            "alt_technique_ids": [
+                "TM-14210",
+                "TM-3971",
+                "TM-3891"
+            ],
+            "technique_ids": [
+                "TM-4273",
+                "TM-14210",
+                "TM-3971",
+                "TM-3891"
+            ],
+            "technique_titles": [
+                "oil painting",
+                "painting",
+                "painting techniques",
+                "painting (image making)"
+            ],
+            "theme_titles": [
+                "Essentials"
+            ],
+            "image_id": "400ce9e8-2f67-44e2-dd68-e6c98880d27f",
+            "alt_image_ids": [],
+            "document_ids": [
+                "86aaf438-63d2-52ea-f883-e81dac4ee695"
+            ],
+            "sound_ids": [
+                "86aaf438-63d2-52ea-f883-e81dac4ee695"
+            ],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_boosted": "Stoke-by-Nayland",
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1922.4453"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Stoke-by-Nayland"
+                    ],
+                    "weight": 7929,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:50-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 161,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/161",
+            "is_boosted": false,
+            "title": "Skyphos (Drinking Cup)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAABEREiAgISYmJycnKXd3eHt7fI2Nj4+PkZCQkpOSlJOTlaCgoqGho7W1uLa2ube3ubm5ur6+wcDAwcDAwsTDxMTDxsTExcTExsXFx8fGx8fHyMfHycjIycvLzMzLzc3Nz8/P0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYfQMgEg6FEHo/FIYFYPDCJAUBgwHBAhQDho+kUhxpPEAA7",
+                "width": 6407,
+                "height": 4805,
+                "alt_text": "A wide-mouthed drinking cup glazed in black with two handles extending from opposite sides."
+            },
+            "main_reference_number": "1889.14",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": -410,
+            "date_end": -400,
+            "date_display": "410-400 BCE",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Greek; Athens",
+            "place_of_origin": "Cales",
+            "description": "<p>During the course of the 5th and 4th centuries BCE, black vessels (commonly called black-glaze vessels) were made with increasing frequency in both Greece and South Italy. Many of them replicate the shape of metal vessels. Others have detailing that is molded or incised. While the quality of these vessels varies greatly, all would have been less expensive than vessels decorated in other contemporary techniques, for example, in red-figure.</p>\n",
+            "short_description": null,
+            "dimensions": "9.2 \u00d7 22.5 \u00d7 16.2 cm (3 5/8 \u00d7 8 7/8 \u00d7 6 3/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": 16,
+                    "width": 22,
+                    "height": 9,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "terracotta, black-glaze with impressed decoration",
+            "inscriptions": null,
+            "credit_line": "Gift of Philip D. Armour and Charles L. Hutchinson",
+            "catalogue_display": null,
+            "publication_history": "W.M.R. French, 1889-?. Notes [on a] journey to Europe with Mr. and Mrs. C.L. Hutchinson starting from New York Sat'y, 1889-?, (unpublished manuscript in Art Institute of Chicago Archives), p. 26. \n\nArt Institute of Chicago, Preliminary Catalogue of Metal Work, Graeco-Italian Vases, and Antiquities, December 9, 1889 (Chicago: Early & Halla Printing Company, 1889), p. 38, no. 304.\n\nHomer A. Thompson, \"Two Centuries of Hellenistic Pottery,\" Hesperia: The Journal of the American School of Classical Studies at Athens 3, 4 (1934), p. 429. \n\nKaren B. Alexander, \"From Plaster to Stone: Ancient Art at the Art Institute of Chicago,\" in Karen Manchester, Recasting the Past: Collecting and Presenting Antiquities at the Art Institute of Chicago (Chicago: Art Institute of Chicago; New Haven: Yale University Press, 2012), p. 18.",
+            "exhibition_history": "The Art Institute of Chicago, \"Of Gods and Glamour: The Mary and Michael Jaharis Galleries of Greek,\" Roman, and Byzantine Art, Gallery 151, November 11, 2012-present.",
+            "provenance_text": "Augusto Mele, Naples, Italy; sold to the Art Institute of Chicago through J.C. Fletcher as agent, 1889; price reimbursed by Charles Hutchinson and Philip D. Armour, 1889.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 941,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 239,
+                "l": 52,
+                "s": 1,
+                "percentage": 0.00019489609358390697,
+                "population": 60
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Vessel",
+            "artwork_type_id": 23,
+            "department_title": "Arts of Greece, Rome, and Byzantium",
+            "department_id": "PC-4",
+            "artist_id": 2601,
+            "artist_title": "Ancient Greek",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                2601
+            ],
+            "artist_titles": [
+                "Ancient Greek"
+            ],
+            "category_ids": [
+                "PC-4"
+            ],
+            "category_titles": [
+                "Arts of Greece, Rome, and Byzantium"
+            ],
+            "term_titles": [
+                "drinking vessel",
+                "terracotta",
+                "greek",
+                "black (color)",
+                "ceramics",
+                "vessel",
+                "ancient art",
+                "ancient"
+            ],
+            "style_id": "TM-4408",
+            "style_title": "greek",
+            "alt_style_ids": [
+                "TM-8542"
+            ],
+            "style_ids": [
+                "TM-4408",
+                "TM-8542"
+            ],
+            "style_titles": [
+                "greek",
+                "ancient"
+            ],
+            "classification_id": "TM-11734",
+            "classification_title": "drinking vessel",
+            "alt_classification_ids": [
+                "TM-46",
+                "TM-27",
+                "TM-1392"
+            ],
+            "classification_ids": [
+                "TM-11734",
+                "TM-46",
+                "TM-27",
+                "TM-1392"
+            ],
+            "classification_titles": [
+                "drinking vessel",
+                "ceramics",
+                "vessel",
+                "ancient art"
+            ],
+            "subject_id": "TM-11845",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-11845"
+            ],
+            "subject_titles": [
+                "black (color)"
+            ],
+            "material_id": "TM-2433",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2433"
+            ],
+            "material_titles": [
+                "terracotta"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "1bc27523-6b27-d9b1-4ea0-ec436d6fd95e",
+            "alt_image_ids": [
+                "2c4d7eb3-4817-2b18-05a7-9f1561400e64",
+                "a20c2372-77b6-d8b3-bfd8-bb75ccdb447e"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1889.14"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Skyphos (Drinking Cup)"
+                    ],
+                    "weight": 67451,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:50-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 7988,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/7988",
+            "is_boosted": false,
+            "title": "Claude Monet",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAElSU01VU1ZbW2NqXFllYGFoZmNsZWJsaWhua2tubG5xbnJybnJxcnRycnN5dn57f32BeY2Ph4+Ji6KXkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOREg7AQQTMpQCIxhfEgRwgAOw==",
+                "width": 6694,
+                "height": 9096,
+                "alt_text": "A work made of oil on canvas."
+            },
+            "main_reference_number": "1923.149",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1922,
+            "date_end": 1922,
+            "date_display": "1922",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Albert Andr\u00e9 (French, 1869-1954)",
+            "place_of_origin": "France",
+            "description": null,
+            "short_description": null,
+            "dimensions": "129.5 \u00d7 96.5 cm (51 \u00d7 38 in.); Framed: 158.3 \u00d7 125.8 \u00d7 12.1 cm (62 5/16 \u00d7 49 1/2 \u00d7 4 3/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 96,
+                    "height": 129,
+                    "diameter": null,
+                    "clarification": null
+                },
+                {
+                    "depth": 12,
+                    "width": 125,
+                    "height": 158,
+                    "diameter": null,
+                    "clarification": "Framed"
+                }
+            ],
+            "medium_display": "Oil on canvas",
+            "inscriptions": null,
+            "credit_line": "The Stickney Fund",
+            "catalogue_display": null,
+            "publication_history": "M. B. W., \"Portrait of Monet by Andr\u00e9,\" Bulletin of the Art Institute of Chicago 17 no. 3 (March 1923): 32-33 (ill.).\n\n\"Accessions and Loans,\" Bulletin of the Art Institute of Chicago 17 no. 3 (March 1923): 35.\n\nArt Institute of Chicago Newsletter (December 1921-December 1923): 127 no. 5.\n\n\u201cAndre\u2019s \u2018Monet\u2019 for Chicago Institute,\u201d Art News 21 (February 17, 1923): 1.\n\nMuriel Ciolkowska, \u201cThe Art of Andr\u00e9,\u201d International Studio 76 (1923) plate opp. 455 (color ill.).\n\nM. C., \"Monets in the Art Institute,\" Bulletin of the Art Institute of Chicago 19, no. 2 (1925): 18 (ill.), 21.\n\nArt Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Chicago: Art Institute: 1925), 74, 125 no. 620, as Claude Monet (in his Garden at Giverny).\n\nMarius Mermillon, Albert Andr\u00e9 (Paris: G. Cr\u00e8s & cie, c. 1927) plate 37.\n\nArt Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Chicago: Art Institute: 1932) 75, 141, as Claude Monet (in his Garden at Giverny).\n\nPictures on Exhibit 8, no. 10 (July 1946): 2 (ill.).\n\nA. C., \u201cHomage to Claude Monet,\u201d The Art Institute of Chicago Quarterly LI, no. 2 (April 1, 1957): 28 (ill.).\n\n\u201cMonet and the Giverny Group,\u201d Bulletin of the Dayton Art Institute, 19, no. 3 (December 1960) n.p. (ill.).\n\nArt Institute of Chicago, Paintings in the Art Institute: A Catalogue of the Picture Collection (Chicago: Art Institute of Chicago, 1961), 15.\n\nA. James Speyer, Twentieth-Century European Paintings, compiled by Courtney Graham Donnell. (Chicago and London: The University of Chicago Press, 1980), 13, 31 no. 1A4, plate 1A4.\n\nEvelyne Yeatman, Albert Andr\u00e9 (Association pour l\u00e9tude de l'oeuvre d'Albert Andr\u00e9, 1990), 29 (ill.).\n\nRejoicing in Woods and Springs: A Journey through Garden Cultures in China and the Wider World, exh. cat. (Beijing: Gu gong chu ban she, 2025), 252 (ill.), cat. 153.",
+            "exhibition_history": "Dayton, Ohio, Dayton Art Institute, Monet and the Giverny Group, Jan. 6 \u2013 Feb. 12, 1961, cat. 1; Davenport, Iowa, Municipal Art Gallery, Mar. 11 \u2013 Apr. 5, 1961; Tucson, University of Arizona, Apr. 19 \u2013 May 10, 1961; Reno, University of Nevada, Oct. 21\u2013Nov. 11, 1961; San Diego, California, Fine Arts Gallery, Nov. 30 \u2013 Dec. 23, 1961; Atlanta, Georgia, Atlanta Art Association, Jan. 7\u201328, 1962.\n\nShort term loan to Mr. and Mrs. B.E. Bensinger, Chicago, January 17 \u2013 April 6, 1973.\n\nShort term loan to Mr. and Mrs. B.E. Bensinger, Chicago, April 18 \u2013 May 18, 1973.\n\nBeijing, Palace Museum, Garden Cultures of China and the West, Apr. 1\u2013June 30, 2025; Suzhou Museum, July 19\u2013Oct. 31, 2025; Ningbo Museum, Dec. 5, 2025\u2013Mar. 8, 2026; Hong Kong Museum of Art, Apr. 23\u2013July 29, 2026.\n\nBeijing, Palace Museum, Rejoicing in Woods and Springs: A Journey through Garden Cultures in China and the Wider World, Apr. 1\u2013June 30, 2025, cat. 153; Suzhou China, Suzhou Museum, July 19\u2013Oct. 31, 2025; Ningbo, China, Ningbo Museum, Dec. 5, 2025\u2013Mar. 8, 2026; Hong Kong Museum of Art, Apr. 23\u2013July 29, 2026.",
+            "provenance_text": "The artist; sold to Durand-Ruel, Paris, July, 20, 1922 [this and the following according to correspondence with France Daguet, Durand-Ruel & Cie., Mar. 7, 1986, in curatorial object file]; sent to Galerie Durand-Ruel, New York, Nov. 2, 1922; sold to the Art Institute of Chicago, Feb. 14, 1923.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 14,
+            "fiscal_year": 1923,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 11.4024,
+            "color": {
+                "h": 149,
+                "l": 42,
+                "s": 7,
+                "percentage": 0.1439027801519837,
+                "population": 1389
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Painting",
+            "artwork_type_id": 1,
+            "department_title": "Painting and Sculpture of Europe",
+            "department_id": "PC-10",
+            "artist_id": 33421,
+            "artist_title": "Albert Andr\u00e9",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                33421
+            ],
+            "artist_titles": [
+                "Albert Andr\u00e9"
+            ],
+            "category_ids": [
+                "PC-10"
+            ],
+            "category_titles": [
+                "Painting and Sculpture of Europe"
+            ],
+            "term_titles": [
+                "oil on canvas",
+                "oil paint (paint)",
+                "painting",
+                "20th Century",
+                "portrait",
+                "portrait",
+                "canvas",
+                "oil painting",
+                "painting (image making)",
+                "painting techniques",
+                "Impressionism",
+                "artist",
+                "Male",
+                "man",
+                "portraits",
+                "portraits: male subject",
+                "european painting",
+                "painting",
+                "modern and contemporary art"
+            ],
+            "style_id": "TM-13130",
+            "style_title": "20th Century",
+            "alt_style_ids": [
+                "TM-7543"
+            ],
+            "style_ids": [
+                "TM-13130",
+                "TM-7543"
+            ],
+            "style_titles": [
+                "20th Century",
+                "Impressionism"
+            ],
+            "classification_id": "TM-66",
+            "classification_title": "oil on canvas",
+            "alt_classification_ids": [
+                "TM-12855",
+                "TM-54",
+                "TM-9",
+                "TM-155"
+            ],
+            "classification_ids": [
+                "TM-66",
+                "TM-12855",
+                "TM-54",
+                "TM-9",
+                "TM-155"
+            ],
+            "classification_titles": [
+                "oil on canvas",
+                "portrait",
+                "european painting",
+                "painting",
+                "modern and contemporary art"
+            ],
+            "subject_id": "TM-14105",
+            "alt_subject_ids": [
+                "TM-15228",
+                "TM-12945",
+                "TM-14974",
+                "TM-8658",
+                "TM-8581"
+            ],
+            "subject_ids": [
+                "TM-14105",
+                "TM-15228",
+                "TM-12945",
+                "TM-14974",
+                "TM-8658",
+                "TM-8581"
+            ],
+            "subject_titles": [
+                "portrait",
+                "artist",
+                "Male",
+                "man",
+                "portraits",
+                "portraits: male subject"
+            ],
+            "material_id": "TM-2451",
+            "alt_material_ids": [
+                "TM-3124"
+            ],
+            "material_ids": [
+                "TM-2451",
+                "TM-3124"
+            ],
+            "material_titles": [
+                "oil paint (paint)",
+                "canvas"
+            ],
+            "technique_id": "TM-14210",
+            "alt_technique_ids": [
+                "TM-4273",
+                "TM-3891",
+                "TM-3971"
+            ],
+            "technique_ids": [
+                "TM-14210",
+                "TM-4273",
+                "TM-3891",
+                "TM-3971"
+            ],
+            "technique_titles": [
+                "painting",
+                "oil painting",
+                "painting (image making)",
+                "painting techniques"
+            ],
+            "theme_titles": [],
+            "image_id": "3dcb169e-b73e-6d52-6ac5-525b67e5b8b7",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1923.149"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Claude Monet"
+                    ],
+                    "weight": 957,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:49-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 9018,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/9018",
+            "is_boosted": false,
+            "title": "Still Life with Queen",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFNIOWxiYX18eYZ5VYl8XoJmcqxvbX+AUZ+NVJGAeriGZb6Xf8aBTcGMWdCrcXuBhoqInsLGsM3NtJm11QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGEoDbQ4zHAQSQA8EyJIUQgAOw==",
+                "width": 1652,
+                "height": 2250,
+                "alt_text": "A work made of oil on canvas."
+            },
+            "main_reference_number": "1931.521",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1912,
+            "date_end": 1912,
+            "date_display": "1912",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Gabriele M\u00fcnter\nGerman, 1877\u20131962",
+            "place_of_origin": "Germany",
+            "description": null,
+            "short_description": null,
+            "dimensions": "78.4 \u00d7 57.5 cm (30 7/8 \u00d7 22 5/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 57,
+                    "height": 78,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Oil on canvas",
+            "inscriptions": "Signed, l.l.: M\u00fcnter 1912",
+            "credit_line": "Arthur Jerome Eddy Memorial Collection",
+            "catalogue_display": null,
+            "publication_history": "Art Institute of Chicago, The Arthur Jerome Eddy Collection of Modern Paintings and Sculpture, exh. cat. (Chicago: The Art Institute of Chicago, 1931), 22, cat. 13.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, exh. cat. (Chicago: The Art Institute of Chicago, 1933), 82, cat. 761.\n\nPeter Selz, German Expressionist Painting (Berkeley: University of California Press, 1957), 209, pl. 89.\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago: Art Institute of Chicago, 1961), 342.\n\nThe German Expressionists and Their Contemporaries: 50 Years of Fantasy and Frenzy, exh. cat. (South Bend, IN.: University of Notre Dame, Art Gallery, 1969), n.p., cat. 84a.\n\nGerman and Austrian Expressionism: Art in a Turbulent Era, exh. cat. (Chicago: Museum of Contemporary Art, 1978), 29, no cat. no.\n\nExpressionism and Its Legacy: German Art from 1905 to the Present: The Frankfurter Kunstkabinett Hannah Bekker vom Rath, exh. cat. (St. Petersburg, FL.: Museum of Fine Arts, 1980), n.p., cat. 9.\n\nAnne Mochon, Gabriele M\u00fcnter, between Munich and Murnau, exh. cat. (Cambridge, MA.: Busch-Reisinger Museum, Harvard University, 1980), 51, cat. 47 (color ill.).\n\nAnnegret Hoberg, Gabriele M\u00fcnter, 1877\u20131962: Retrospektive, exh. cat. (M\u00fcnchen: Prestel, 1992), 40, 65, cat. 118 (color ill.).\n\nJames Wood, Treasures of 19th- and 20th-Century Painting, the Art Institute of Chicago (New York: Abbeville Press, 1993), 207 (color ill.).\n\nReinhold Heller, Gabriele M\u00fcnter: The Years of Expressionism, 1903-1920, exh. cat. (Munich and New York: Prestel, 1997), 109, cat. 65 (color ill.).\n\nAnnegret Hoberg, Gabriele M\u00fcnter (Munich and New York: Prestel, 2003), 28, 29, 76, pl. 42 (color ill.), as Stilleben mit K\u00f6nigin.\n\nVivian Endicott Barnett, The Chicago Lawyer Arthur Jerome Eddy and His Eclectic Art Collection (Philadelphia: American Philosophical Society Press, 2022), 109, 111, fig. 12.2 (color ill.).\n\nElizabeth Siegel, The Bradley Collection of Modern Art, exh. cat. (Milwaukee: Milwaukee Art Museum, 2025), 32 (color ill.).\n\nVictoria Horrocks, Isabelle Jansen, Iris M\u00fcller-Westermann, Dorothy Price, and Megan M. Fontanella, Gabriele M\u00fcnter: Contours of a World, exh. cat. (New York: Guggenheim Museum, 2025, 123 (color ill.), 163.",
+            "exhibition_history": "Munich, Der neue Kunstsalon Dietzel, G. M\u00fcnter, Kollektiv-Ausstellung, March\u2013April 1913 (traveled to Dresden, Frankfurt, and Stuttgart), cat. 21.\n\nArt Institute of Chicago, The Arthur Jerome Eddy Collection of Modern Paintings and Sculpture, Dec. 22, 1931\u2013Jan. 17, 1932, cat. 13.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, June 1\u2013Nov. 1, 1933, cat. 761.\n\nSouth Bend, IN, Art Gallery, University of Notre Dame, The German Expressionists and Their Contemporaries: 50 Years of Fantasy and Frenzy, Dec. 7, 1969\u2013Feb. 15, 1970, cat. 84a.\n\nChicago, Museum of Contemporary Art, German and Austrian Expressionism: Art in a Turbulent Era, Mar. 10\u2013Apr. 30, 1978, no cat. no.\n\nSt. Petersburg, FL, Museum of Fine Arts, Expressionism and Its Legacy: German Art from 1905 to the Present: The Frankfurter Kunstkabinett Hannah Bekker vom Rath, Jan. 19\u2013Feb. 24, 1980, cat. 9.\n\nCambridge, MA, Harvard University, Busch-Reisinger Museum, Gabriele M\u00fcnter, between Munich and Murnau, Sept. 25\u2013Nov. 8, 1980, cat. 47; Princeton, NJ, Princeton University Art Museum, Nov. 22, 1980\u2013Jan. 18, 1981.\n\nMunich, St\u00e4dtischen Galerie im Lenbachhaus, Gabriele M\u00fcnter, 1877\u20131962: Retrospektive, July 29\u2013Nov. 1, 1992, cat. 118; Frankfurt, Schirn Kunsthalle, Nov. 29\u2013Feb. 10, 1993; Stockholm, Liljevalchs Konsthall, Apr. 4\u2013May 31, 1993.\n\nMilwaukee, Milwaukee Art Museum, Gabriele M\u00fcnter: The Years of Expressionism, 1903-1920, Dec. 5, 1997\u2013Mar. 1, 1998, aat. 65; Columbus OH, Columbus Museum of Art, Apr. 18\u2013June 21, 1998; Richmond, VA, Virginia Museum of Fine Arts, July 31\u2013Sept. 21, 1998; San Antonio, TX, Marion Koogler McNay Art Museum, Nov. 3, 1998\u2013Jan. 3, 1999.\n\nNew York, Solomon R. Guggenheim Museum, Gabriele M\u00fcnter: Contours of a World, Nov. 7, 2025-Apr. 26, 2026, no cat. no.",
+            "provenance_text": "The artist, Munich; sold to Arthur Jerome Eddy (1859-1920), Chicago, 1914 [Barnett 2022]; by descent to his wife Lucy O. Eddy (1863-1931) and son Jerome O. Eddy (1891-1951), Chicago, 1920; given to the Art Institute of Chicago, 1931.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 246,
+            "fiscal_year": 1930,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": true,
+            "max_zoom_window_size": 1280,
+            "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 64.2327,
+            "color": {
+                "h": 43,
+                "l": 47,
+                "s": 74,
+                "percentage": 0.045982284937236766,
+                "population": 445
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan to Solomon R. Guggenheim Museum in New York City for <i>Gabriele M\u00fcnter: Contours of a World</i></p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Painting",
+            "artwork_type_id": 1,
+            "department_title": "Modern Art",
+            "department_id": "PC-11",
+            "artist_id": 44013,
+            "artist_title": "Gabriele M\u00fcnter",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                44013
+            ],
+            "artist_titles": [
+                "Gabriele M\u00fcnter"
+            ],
+            "category_ids": [
+                "PC-11"
+            ],
+            "category_titles": [
+                "Modern Art"
+            ],
+            "term_titles": [
+                "painting",
+                "interiors",
+                "Modern Art Highlights",
+                "Century of Progress",
+                "world's fairs",
+                "Chicago World's Fairs",
+                "dresses",
+                "fashion",
+                "interior design",
+                "plants",
+                "still life",
+                "queens",
+                "royalty",
+                "women",
+                "flowers",
+                "dolls",
+                "puppets"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-9",
+            "classification_title": "painting",
+            "alt_classification_ids": [
+                "TM-14404"
+            ],
+            "classification_ids": [
+                "TM-9",
+                "TM-14404"
+            ],
+            "classification_titles": [
+                "painting",
+                "Modern Art Highlights"
+            ],
+            "subject_id": "TM-12285",
+            "alt_subject_ids": [
+                "TM-12169",
+                "TM-11299",
+                "TM-12176",
+                "TM-12529",
+                "TM-8663",
+                "TM-12215",
+                "TM-12058",
+                "TM-8937",
+                "TM-8791",
+                "TM-12150",
+                "TM-8735",
+                "TM-10482",
+                "TM-8856",
+                "TM-14414"
+            ],
+            "subject_ids": [
+                "TM-12285",
+                "TM-12169",
+                "TM-11299",
+                "TM-12176",
+                "TM-12529",
+                "TM-8663",
+                "TM-12215",
+                "TM-12058",
+                "TM-8937",
+                "TM-8791",
+                "TM-12150",
+                "TM-8735",
+                "TM-10482",
+                "TM-8856",
+                "TM-14414"
+            ],
+            "subject_titles": [
+                "interiors",
+                "Century of Progress",
+                "world's fairs",
+                "Chicago World's Fairs",
+                "dresses",
+                "fashion",
+                "interior design",
+                "plants",
+                "still life",
+                "queens",
+                "royalty",
+                "women",
+                "flowers",
+                "dolls",
+                "puppets"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "6b5916ab-baa7-caa0-fcc2-314f6ec268bc",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1931.521"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Still Life with Queen"
+                    ],
+                    "weight": 3595,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:48-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        },
+        {
+            "id": 9637,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/9637",
+            "is_boosted": false,
+            "title": "View of an Italian Villa and Gardens (the Belvedere of the Vatican)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIR5Z4h7aIl9bIp/bpOHc5SHc5KGdJiLdZqOepyOeaGTfKKVfqWXf6aYgqucg6yehq+gha+hh7CghrChhrmqj7ysj7iqkb+wlMa4n869n9C+n8u8odPAoNLAodTEpNjIqNzMruDQsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIznA/p0OBXIw7IJaRKGgaCBUSwOBACiEJhQLhEHQxIEADs=",
+                "width": 3000,
+                "height": 2049,
+                "alt_text": "A work made of brush and gray wash heightened with white gouache, over traces of black chalk, on ivory laid paper."
+            },
+            "main_reference_number": "1959.45",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1700,
+            "date_end": 1799,
+            "date_display": "1765/66",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Jean Jacques de Boissieu\nFrench, 1736-1810",
+            "place_of_origin": "France",
+            "description": null,
+            "short_description": null,
+            "dimensions": "24.7 \u00d7 36.2 cm (9 3/4 \u00d7 14 5/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 36,
+                    "height": 24,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Brush and gray wash heightened with white gouache, over traces of black chalk, on ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Gift of Mr. John L. Strauss",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": "Beijing, China, Palace Museum, \"Rejoicing in Woods and Springs:  A Journey through Garden Cultures in China and the Wider World\", April 1 - June 30, 2025, traveled to Hong Kong Museum, April 23 - July 29, 2026.",
+            "provenance_text": "John L. Strauss, Glencoe, Ill., by 1959; given to the Art Institute, 1959.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 20.723,
+            "color": {
+                "h": 44,
+                "l": 93,
+                "s": 83,
+                "percentage": 0.07674454587652793,
+                "population": 372
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 40447,
+            "artist_title": "Jean Jacques de Boissieu",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                40447
+            ],
+            "artist_titles": [
+                "Jean Jacques de Boissieu"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "ink or chalk wash",
+                "paper (fiber product)",
+                "wash",
+                "coating (material)",
+                "gouache",
+                "watercolor",
+                "water-base paint",
+                "paint",
+                "chalk sticks",
+                "black chalk",
+                "chalk",
+                "inorganic material",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-217",
+            "classification_title": "ink or chalk wash",
+            "alt_classification_ids": [
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-217",
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "ink or chalk wash",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2399",
+                "TM-3238",
+                "TM-2404",
+                "TM-2403",
+                "TM-3343",
+                "TM-2577",
+                "TM-2413",
+                "TM-2414",
+                "TM-3782",
+                "TM-2600"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2399",
+                "TM-3238",
+                "TM-2404",
+                "TM-2403",
+                "TM-3343",
+                "TM-2577",
+                "TM-2413",
+                "TM-2414",
+                "TM-3782",
+                "TM-2600"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "wash",
+                "coating (material)",
+                "gouache",
+                "watercolor",
+                "water-base paint",
+                "paint",
+                "chalk sticks",
+                "black chalk",
+                "chalk",
+                "inorganic material"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "462c6fe2-40a4-ed8d-772c-4fb9ae78265f",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1959.45"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "View of an Italian Villa and Gardens (the Belvedere of the Vatican)"
+                    ],
+                    "weight": 167,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:47-05:00",
+            "timestamp": "2026-03-22T12:19:47-05:00"
+        }
+    ],
+    "info": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.14"
+    },
+    "config": {
+        "iiif_url": "https://www.artic.edu/iiif/2",
+        "website_url": "http://www.artic.edu"
+    }
+}
