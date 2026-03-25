@@ -1,0 +1,1736 @@
+{
+    "pagination": {
+        "total": 131552,
+        "limit": 10,
+        "offset": 20,
+        "total_pages": 13156,
+        "current_page": 3,
+        "prev_url": "https://api.artic.edu/api/v1/artworks?page=2&limit=10",
+        "next_url": "https://api.artic.edu/api/v1/artworks?page=4&limit=10"
+    },
+    "data": [
+        {
+            "id": 25102,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25102",
+            "is_boosted": false,
+            "title": "Lilies, from an untitled series of Large Flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHB+bnuDcIeHcqeaesWheY2aiJGdiZ6ljbSojKCmkaOpk6OsmLqtkqmwm7Kymra1nK+3ora4oba6o7G8p7m5ob66oLq7pLm9pry+p8GzktG3lsK6oMa/pLjAq7vAq73Aqr/Cq7rEsMHBpwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMmkcBB1MBSOwlDZeC4aRGAB+kAaDMIjFEkABIOMxREEADs=",
+                "width": 3506,
+                "height": 2431,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3370",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1827,
+            "date_end": 1839,
+            "date_display": "c. 1833/34",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e \nJapanese, 1760-1849",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "25 \u00d7 36.1 cm (9 7/8 \u00d7 14 1/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 36,
+                    "height": 25,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": "Tokyo National Museum,  Hokusai (2005), cat. 366, p. 384.",
+            "exhibition_history": "Tokyo, Japan, Tokyo National Museum, Hokusai the Immortal, November 15\u2013 December 4, 2005",
+            "provenance_text": "Baron Sumitomo Tomoito (1865\u20131926). With Yamanaka & Company; sold to Clarence Buckingham (1854\u20131913), Chicago, June 1913; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 27.6932,
+            "color": {
+                "h": 51,
+                "l": 57,
+                "s": 16,
+                "percentage": 0.027359054928407067,
+                "population": 134
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "f499675e-b863-ddca-281d-1545d799a3de",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3370"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Lilies, from an untitled series of Large Flowers"
+                    ],
+                    "weight": 977,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:38-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25099,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25099",
+            "is_boosted": false,
+            "title": "Morning Glories and Tree-frog, from an untitled series of Large Flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIyOb4+TcI6adJSWcpOWeqSUeK2nf6emg6+jgaWogq+tja+ujLCrgrSshbeujbazhbmxjbq1j7y3ksCrhca0jcW5k8a+lce8lsy9l8y+lse6nMnAms/AnNLBmczAodXGo9bGptvKo9rMrQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQE5IQmhkQBfLp4DYiCCLyiSh8GAeggMjoqF0DAHAwBEEADs=",
+                "width": 3611,
+                "height": 2546,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3369",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1820,
+            "date_end": 1830,
+            "date_display": "c. 1833/34",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e \nJapanese, 1760-1849",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "26.4 \u00d7 37.2 cm (10 7/16 \u00d7 14 5/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 37,
+                    "height": 26,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": "Tokyo National Museum, Hokusai (2005), cat. 365, p. 384.",
+            "exhibition_history": "Tokyo, Japan, Tokyo National Museum, Hokusai the Immortal,  15 November 2005 \u2013 4 December 2005.",
+            "provenance_text": "Baron Sumitomo Tomoito (1865\u20131926). With Yamanaka & Company; sold to Clarence Buckingham (1854\u20131913), Chicago, June 1913; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 26.9286,
+            "color": {
+                "h": 62,
+                "l": 44,
+                "s": 36,
+                "percentage": 0.0066916081150956595,
+                "population": 33
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "f0866976-fe33-4290-30b8-704e85d8e9b4",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3369"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Morning Glories and Tree-frog, from an untitled series of Large Flowers"
+                    ],
+                    "weight": 659,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:38-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25110,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25110",
+            "is_boosted": false,
+            "title": "Chrysanthemum and Horsefly, from an untitled series of Large Flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIiCYpWFZouPdZ2acKOadaWfe6mcfbGdebGkf8qbcKynhrSnhbyohbCqjbGvjrKzkry4mcSviMS2gsS1kMO2lcS6lMK5mca8mMzAm8nAnMvCos7Coc/GosvFpc3GpdDGpdDIqdDKqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAsnE8GEPhrPJHGgbCqSx4Jh6CgGhAICAmoIAgDHxxIEADs=",
+                "width": 3552,
+                "height": 2442,
+                "alt_text": "A color woodblock print of pink, orange and yellow chrysanthemums. In the upper rihgt a tiny bee flies above the flowers. Signature and seals in the lower left corner."
+            },
+            "main_reference_number": "1925.3373",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1831,
+            "date_end": 1833,
+            "date_display": "c. 1831\u201333",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e \nJapanese, 1760-1849",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "26.5 \u00d7 38.8 cm (10 7/16 \u00d7 14 15/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 38,
+                    "height": 26,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print, oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": "Ann Yonemura, exh. cat., Hokusai, (Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution 2007), p. 128-29.\n\nMatthi Forrer, Hokusai, exh. cat. (Royal Academy of Arts, London/Prestel, Munich 1991), cat. 58, n.pag.",
+            "exhibition_history": "Sackler Gallery, Washington DC, Hokusal the Immortal,March 4- May 14, 2006.\n\nLondon, Royal Academy of Arts, November 15, 1991- February 9, 1992.",
+            "provenance_text": "Ernest Francisco Fenollosa (1853\u20131908), Boston; by descent to his wife, Sidney McCall (1865\u20131954; born Mary McNeill, also Mary McNeil Fenollosa), Boston, 1908; sold to Clarence Buckingham (1854\u20131913), Chicago, 1909; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 35.2057,
+            "color": {
+                "h": 41,
+                "l": 66,
+                "s": 61,
+                "percentage": 0.028477945982048652,
+                "population": 139
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "e81e632c-2e27-d79c-527d-365519796f9f",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3373"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Chrysanthemum and Horsefly, from an untitled series of Large Flowers"
+                    ],
+                    "weight": 3053,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:37-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25108,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25108",
+            "is_boosted": false,
+            "title": "Poppies, from an untitled series of flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAG51bH16bW95cXmBdX6Kf56TfqGTfLaUdbCbf4mQg46QgIiQhI+ZjpCXiaCahp6hj52ik52jk5unm7CiiKGikaakk62rl7GpkrCyn6uvoK+zo660oa64qbS2pLi3orS5prW5prG6qrS9rgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQM/mgviAMBZF4dARaRYETkhSySQEDEeAAnkMAIZJIxIEADs=",
+                "width": 3698,
+                "height": 2570,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3372",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1827,
+            "date_end": 1839,
+            "date_display": "c. 1832",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "25.4 \u00d7 36.5 cm (10 \u00d7 14 3/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 36,
+                    "height": 25,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": "Baron Sumitomo Tomoito (1865\u20131926). With Yamanaka & Company; sold to Clarence Buckingham (1854\u20131913), Chicago, June 1913; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 23.7335,
+            "color": {
+                "h": 37,
+                "l": 51,
+                "s": 16,
+                "percentage": 0.023077016506139705,
+                "population": 114
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "a4796b47-0881-4d27-8f10-186f4af524c7",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3372"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Poppies, from an untitled series of flowers"
+                    ],
+                    "weight": 316,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:37-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25105,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25105",
+            "is_boosted": false,
+            "title": "Cotton Roses and Sparrow, from an untitled series of Large Flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE9cTGRlVnlzYIF5YIKCZ5qXdKeJcqyTdq2VdqqaeaqjecCcfLuzh8CegMCvicy6hMC1i8K4itK6i9O5jNC/jcu6kNbEj8rCktrAkNzJl9zLmN/LmODLk+DOmuHPm+LQm+XTnOvXoOrYoQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQA2IUeh8MhPJYnAJbTCVxsEB8VhECoABEXlwCAFBghIEADs=",
+                "width": 3414,
+                "height": 2321,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3371",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1828,
+            "date_end": 1838,
+            "date_display": "c. 1833/34",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "25.1 \u00d7 37.1 cm (9 7/8 \u00d7 14 5/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 37,
+                    "height": 25,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": "Tokyo National Museum, Hokusai (2005), cat. 358, p. 384.",
+            "exhibition_history": "Tokyo, Japan, Tokyo National Museum, Hokusai the Immortal,  15 November 2005 \u2013 4 December 2005",
+            "provenance_text": "Baron Sumitomo Tomoito (1865\u20131926). With Yamanaka & Company; sold to Clarence Buckingham (1854\u20131913), Chicago, June 1913; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 43.2832,
+            "color": {
+                "h": 44,
+                "l": 44,
+                "s": 36,
+                "percentage": 0.006178331356267299,
+                "population": 30
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "6ce6733c-3e20-36ec-0687-4259af16dd61",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3371"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Cotton Roses and Sparrow, from an untitled series of Large Flowers"
+                    ],
+                    "weight": 421,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:37-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25115,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25115",
+            "is_boosted": false,
+            "title": "Orange Orchids, from an untitled series of flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFVdUl9lWnB2aa2Yeo+VhZqbiZqgkKuljraggKWsnKyum7mvlr22nq60o726pb+6pLe+rb29qsK+p8C9qLzBr8LFssfLuMjLucvMucvPu8zNuszOus7Qus7RvM3Rv8/Sv8/UwNDUwdPYxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwA2oE1pIPp4HJzOYiCKIA4Th0BQUAkLCgmkEAAZK5RIEADs=",
+                "width": 3751,
+                "height": 2559,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3375",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1827,
+            "date_end": 1837,
+            "date_display": "c. 1832",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849\nPublisher: Hibino Yohachi\nJapanese, unknown",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "25.5 \u00d7 37.7 cm (10 \u00d7 14 1/2 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 37,
+                    "height": 25,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": "Baron Sumitomo Tomoito (1865\u20131926). With Yamanaka & Company; sold to Clarence Buckingham (1854\u20131913), Chicago, June 1913; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 22.2644,
+            "color": {
+                "h": 147,
+                "l": 41,
+                "s": 10,
+                "percentage": 0.06722709807138408,
+                "population": 327
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "5df159e9-0f5f-b093-b11e-57c41348657b",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3375"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Orange Orchids, from an untitled series of flowers"
+                    ],
+                    "weight": 296,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:36-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25113,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25113",
+            "is_boosted": false,
+            "title": "Peonies and Butterfly, from an untitled series of large flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJ2li66mi66ujrSih7unjbGtjrmvkauymr+8l7C1mre5oL6/pcW8kcK/mse9m8PBnsbCpsnDocrFqsjHq8vIr8/IrtLLp9LNqNnOq9vQqdzQqNrQr9LNstbOs9jRsODWruXatebav/TmuwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwA1oMRF9PBEHJGRhZAQGCQfQuGgQhUGlk8A8AgSK4hAEADs=",
+                "width": 4979,
+                "height": 3407,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3374",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1827,
+            "date_end": 1839,
+            "date_display": "c. 1833/34",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849\nPublisher: Hibino Yohachi\nJapanese, unknown",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "25.4 \u00d7 37.7 cm (9 3/4 \u00d7 14 1/2 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 37,
+                    "height": 25,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": "Baron Sumitomo Tomoito (1865\u20131926). With Yamanaka & Company; sold to Clarence Buckingham (1854\u20131913), Chicago, June 1913; by descent to his sister, Kate Sturges Buckingham (1858\u20131937), Chicago, 1913; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 29.3516,
+            "color": {
+                "h": 40,
+                "l": 69,
+                "s": 40,
+                "percentage": 0.1070854537872623,
+                "population": 529
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "0ca42060-6e7c-7565-4745-9b396731b53e",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3374"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Peonies and Butterfly, from an untitled series of large flowers"
+                    ],
+                    "weight": 80,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:36-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25129,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25129",
+            "is_boosted": false,
+            "title": "Bell-Flower and Dragonfly, from an untitled series of large flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAImHbo+NdJeJcImSeZaVfKeUeqOfg6mgg6yhg62nibStjbqrjLqrjbOukMy4l8C8m8O9nMu5mM+7mcq+nNHEodbJptnKpdjJptnLqNjLqtrNqd7Oq9zOrN3PrN7Qq9/RrODSrePYswAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMzHA5JYNh3NJRRZcDiQhwPByFASjQNAUTEICINAYRIEADs=",
+                "width": 3426,
+                "height": 2381,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3377",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1827,
+            "date_end": 1837,
+            "date_display": "c. 1833/34",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849\nPublisher: Hibino Yohachi\nJapanese, unknown",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "26 \u00d7 37.5 cm (10 1/4 \u00d7 14 3/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 37,
+                    "height": 26,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": "Matthi Forrer, Hokusai, exh. cat. (Royal Academy of Arts, London/Prestel, Munich 1991), cat. 54, n.pag.",
+            "exhibition_history": "London, Royal Academy of Arts, November 15, 1991- February 9, 1992.",
+            "provenance_text": "Yamanaka & Company; sold to Kate Sturges Buckingham (1858\u20131937), Chicago, Nov. 1920; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 28.4373,
+            "color": {
+                "h": 46,
+                "l": 51,
+                "s": 20,
+                "percentage": 0.03284971256501506,
+                "population": 162
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "960360f3-def7-27e5-6102-6fea8815ff61",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3377"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Bell-Flower and Dragonfly, from an untitled series of large flowers"
+                    ],
+                    "weight": 1046,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:35-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 25117,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/25117",
+            "is_boosted": false,
+            "title": "Hydrangea and Swallow, from an untitled series of large flowers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJuXb6Sgfpybia6kgL+1ic6+gsu9iMm+ld/Og9DBitXFit3MjuHPi+jUiOXUlwAAACH5BAAAAAAALAAAAAADAAUAAAQLMC1XiDoBICMaGxEAOw==",
+                "width": 3499,
+                "height": 2388,
+                "alt_text": "A work made of color woodblock print; oban."
+            },
+            "main_reference_number": "1925.3376",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1828,
+            "date_end": 1838,
+            "date_display": "c. 1833/34",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849",
+            "place_of_origin": "Japan",
+            "description": null,
+            "short_description": null,
+            "dimensions": "26.1 \u00d7 38.5 cm (10 1/4 \u00d7 15 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 38,
+                    "height": 26,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Color woodblock print; oban",
+            "inscriptions": "signed: zen Hokusai Iitsu hitsu\npublisher: Nishimuraya Yohachi (Eijudo)\ncensorship seal: kiwame (not on this print)",
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": null,
+            "publication_history": "Matthi Forrer, Hokusai, exh. cat. (Royal Academy of Arts, London/Prestel, Munich 1991), cat. 62, n.pag.",
+            "exhibition_history": "London, Royal Academy of Arts, November 15, 1991- February 9, 1992.",
+            "provenance_text": "Yamanaka & Company; sold to Kate Sturges Buckingham (1858\u20131937), Chicago, Dec. 1916; given to the Art Institute of Chicago, 1925.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 8,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 52.803,
+            "color": {
+                "h": 46,
+                "l": 66,
+                "s": 47,
+                "percentage": 0.004614222186333827,
+                "population": 48
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Arts of Asia",
+            "department_id": "PC-7",
+            "artist_id": 31492,
+            "artist_title": "Katsushika Hokusai",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                31492
+            ],
+            "artist_titles": [
+                "Katsushika Hokusai"
+            ],
+            "category_ids": [
+                "PC-7"
+            ],
+            "category_titles": [
+                "Arts of Asia"
+            ],
+            "term_titles": [
+                "woodblock print",
+                "Japanese (culture or style)",
+                "print",
+                "asian art"
+            ],
+            "style_id": "TM-13407",
+            "style_title": "Japanese (culture or style)",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13407"
+            ],
+            "style_titles": [
+                "Japanese (culture or style)"
+            ],
+            "classification_id": "TM-402",
+            "classification_title": "woodblock print",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_ids": [
+                "TM-402",
+                "TM-17",
+                "TM-26"
+            ],
+            "classification_titles": [
+                "woodblock print",
+                "print",
+                "asian art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "9bc87079-663c-f320-2da5-29dcd86c68f4",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1925.3376"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Hydrangea and Swallow, from an untitled series of large flowers"
+                    ],
+                    "weight": 1213,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:35-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        },
+        {
+            "id": 26720,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/26720",
+            "is_boosted": false,
+            "title": "View of the Grotta di Palazzo with Banquet",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFxLMl9SPmNSMmVTNWNVO2lZQmxdQWlcRW5fRHVlS3ZnS3hnSoBwV4FzV4VyVoR2WYh2XYh4XIx+Yo6AY42BZo6FbJSGaJuIapuJb5WIcZmMdZ6RdaGVe6eZfaqjiK2ki6+kjLGqkbuvlbu2nsC4nsvCqNrWvfby2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQEbgQGkQDJICgBMaeQSKS6VEMp0sCEhGI/qABgsHprOZPBKRIAA7",
+                "width": 4556,
+                "height": 3052,
+                "alt_text": "A work made of pen and black ink and brush and watercolor, over traces of graphite, on ivory laid paper, laid down on card."
+            },
+            "main_reference_number": "1967.32",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1785,
+            "date_end": 1795,
+            "date_display": "c. 1790",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Louis Jean Desprez\nFrench, 1743-1804",
+            "place_of_origin": "France",
+            "description": null,
+            "short_description": null,
+            "dimensions": "21.8 \u00d7 35.4 cm (8 5/8 \u00d7 13 15/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 35,
+                    "height": 21,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Pen and black ink and brush and watercolor, over traces of graphite, on ivory laid paper, laid down on card",
+            "inscriptions": null,
+            "credit_line": "Olivia Shaler Swan Fund",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 26.7812,
+            "color": {
+                "h": 48,
+                "l": 38,
+                "s": 76,
+                "percentage": 0.0004221493311043848,
+                "population": 2
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 40547,
+            "artist_title": "Louis Jean Desprez",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                40547
+            ],
+            "artist_titles": [
+                "Louis Jean Desprez"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "watercolor",
+                "paper (fiber product)",
+                "ink",
+                "watercolor",
+                "water-base paint",
+                "paint",
+                "graphite",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-39",
+            "classification_title": "watercolor",
+            "alt_classification_ids": [
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-39",
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "watercolor",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2398",
+                "TM-2403",
+                "TM-3343",
+                "TM-2577",
+                "TM-2410"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2398",
+                "TM-2403",
+                "TM-3343",
+                "TM-2577",
+                "TM-2410"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "ink",
+                "watercolor",
+                "water-base paint",
+                "paint",
+                "graphite"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "5bbc0c4b-ace9-38ef-460f-4a9efedad60a",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1967.32"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "View of the Grotta di Palazzo with Banquet"
+                    ],
+                    "weight": 97,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-22T00:30:09-05:00",
+            "updated_at": "2026-03-22T03:32:34-05:00",
+            "timestamp": "2026-03-22T12:20:04-05:00"
+        }
+    ],
+    "info": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.14"
+    },
+    "config": {
+        "iiif_url": "https://www.artic.edu/iiif/2",
+        "website_url": "http://www.artic.edu"
+    }
+}
