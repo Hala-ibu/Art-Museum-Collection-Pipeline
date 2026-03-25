@@ -3,7 +3,6 @@ import sys
 from pymongo import MongoClient
 from dotenv import load_dotenv
 
-# Connect to your logger
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from utils.logger import logger
 
