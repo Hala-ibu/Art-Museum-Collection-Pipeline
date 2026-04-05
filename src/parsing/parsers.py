@@ -36,23 +36,28 @@ def extract_data_from_excel(file_path):
     art_pieces = []
 
     for row in ws.iter_rows(min_row=2, values_only=True):
-        if row[0] is None: continue 
+        # Skip row if the first cell is empty
+        if row[0] is None: 
+            continue 
+        
+        # Helper function to get data safely
+        def get_val(index):
+            return row[index] if len(row) > index else None
         
         piece = {
-            "id": row[0],
-            "title": row[1],
-            "artist": row[2],
-            "period": row[3],
-            "type": row[4],
-            "acquisition_cost": row[5],
-            "estimated_value": row[6],
-            "rating": row[7],
-            "country_of_origin": row[8]
+            "id": get_val(0),
+            "title": get_val(1),
+            "artist": get_val(2),
+            "period": get_val(3),
+            "type": get_val(4),
+            "acquisition_cost": get_val(5),
+            "estimated_value": get_val(6),
+            "rating": get_val(7),          
+            "country_of_origin": get_val(8)
         }
         art_pieces.append(piece)
 
     return art_pieces
-
 def extract_summary_from_excel(file_path):
     wb = load_workbook(file_path, data_only=True)
     ws = wb["Summary"]
