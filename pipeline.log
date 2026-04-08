@@ -1,4 +1,76 @@
-2026-03-22 18:19:41,864 - INFO - Starting API acquisition from https://api.artic.edu/api/v1/artworks
-2026-03-22 18:19:47,492 - INFO - Successfully saved page 1 to data/raw/api/artworks_page_1.json
-2026-03-22 18:20:00,203 - INFO - Successfully saved page 2 to data/raw/api/artworks_page_2.json
-2026-03-22 18:20:05,051 - INFO - Successfully saved page 3 to data/raw/api/artworks_page_3.json
+2026-04-05 14:25:32,188 - INFO - MongoDB Insert Successful: ID 69d254bce43968023e284a67 | Type: test
+2026-04-05 14:37:19,551 - INFO - --- ART MUSEUM COLLECTION PIPELINE STARTING ---
+2026-04-05 14:37:19,552 - INFO - Processing local document files...
+2026-04-05 14:37:19,553 - INFO - Local files processed successfully.
+2026-04-05 14:37:19,553 - INFO - Starting Multi-page Web Scraping...
+2026-04-05 14:37:25,918 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25963 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 892329), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,921 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25964 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 919730), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,926 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25965 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 923196), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,935 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25966 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 933506), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,939 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25967 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 936940), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,942 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25968 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 940001), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,944 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25969 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 942755), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,947 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2596a | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 945161), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,951 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2596b | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 949443), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,954 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2596c | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 952713), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,958 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2596d | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 955441), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,960 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2596e | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 958905), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,963 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2596f | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 961304), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,965 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25970 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 964013), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,968 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25971 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 966771), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,970 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25972 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 969149), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,973 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25973 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 971681), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,978 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25974 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 975723), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,982 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25975 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 980325), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,985 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25976 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 983603), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,988 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25977 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 986740), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,991 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25978 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 989304), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,997 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d25979 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 994445), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:25,999 - INFO - MongoDB Insert Successful: ID 69d25785173912d478d2597a | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 25, 998013), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,017 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2597b | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 14867), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,019 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2597c | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 18048), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,023 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2597d | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 20733), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,027 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2597e | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 24906), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,029 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2597f | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 27723), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,031 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25980 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 29910), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,033 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25981 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 32161), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,035 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25982 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 34103), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,038 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25983 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 36371), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,039 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25984 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 38607), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,043 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25985 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 41206), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,045 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25986 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 43836), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,047 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25987 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 46090), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,049 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25988 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 48065), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,050 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25989 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 49601), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,063 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2598a | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 62301), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,066 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2598b | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 64857), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,068 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2598c | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 66938), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,069 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2598d | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 68506), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,071 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2598e | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 70027), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,074 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d2598f | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 72979), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,076 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25990 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 74531), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,077 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25991 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 76612), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,079 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25992 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 78058), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,080 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25993 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 79519), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,081 - INFO - MongoDB Insert Successful: ID 69d25786173912d478d25994 | Type: {'type': 'web_scraping', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 26, 80791), 'file_name': 'teams_scraped.html'}
+2026-04-05 14:37:26,082 - INFO - Web scraping finished. Scraped 50 records.
+2026-04-05 14:37:26,082 - INFO - Starting Dynamic API Scraping...
+2026-04-05 14:37:28,309 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d25995 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 307437)}
+2026-04-05 14:37:28,312 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d25996 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 310318)}
+2026-04-05 14:37:28,314 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d25997 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 312722)}
+2026-04-05 14:37:28,317 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d25998 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 315051)}
+2026-04-05 14:37:28,330 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d25999 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 328312)}
+2026-04-05 14:37:28,332 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d2599a | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 331010)}
+2026-04-05 14:37:28,335 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d2599b | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 333508)}
+2026-04-05 14:37:28,338 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d2599c | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 336521)}
+2026-04-05 14:37:28,340 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d2599d | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 339057)}
+2026-04-05 14:37:28,343 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d2599e | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 341434)}
+2026-04-05 14:37:28,346 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d2599f | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 344156)}
+2026-04-05 14:37:28,349 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d259a0 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 347748)}
+2026-04-05 14:37:28,354 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d259a1 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 351701)}
+2026-04-05 14:37:28,357 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d259a2 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 355256)}
+2026-04-05 14:37:28,359 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d259a3 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 357956)}
+2026-04-05 14:37:28,362 - INFO - MongoDB Insert Successful: ID 69d25788173912d478d259a4 | Type: {'type': 'dynamic_api', 'extracted_at': datetime.datetime(2026, 4, 5, 12, 37, 28, 360206)}
+2026-04-05 14:37:28,363 - INFO - Starting OCR Processing...
+2026-04-05 14:37:28,364 - INFO - OCR Processing finished.
+2026-04-05 14:37:28,365 - INFO - --- PIPELINE FINISHED SUCCESSFULLY ---
