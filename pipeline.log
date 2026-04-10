@@ -74,3 +74,207 @@
 2026-04-05 14:37:28,363 - INFO - Starting OCR Processing...
 2026-04-05 14:37:28,364 - INFO - OCR Processing finished.
 2026-04-05 14:37:28,365 - INFO - --- PIPELINE FINISHED SUCCESSFULLY ---
+2026-04-10 20:15:41,437 - INFO - Batch processing 10 images from data\raw\images
+2026-04-10 20:15:41,670 - ERROR - Failed: 102578.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:41,766 - ERROR - Failed: 110180.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:41,856 - ERROR - Failed: 125249.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:41,957 - ERROR - Failed: 137259.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:42,030 - ERROR - Failed: 141639.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:42,102 - ERROR - Failed: 149112.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:42,206 - ERROR - Failed: 149410.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:42,357 - ERROR - Failed: 151904.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:42,469 - ERROR - Failed: 92937.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:15:42,569 - ERROR - Failed: 94979.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:17,342 - INFO - Batch processing 10 images from data\raw\images
+2026-04-10 20:17:17,556 - ERROR - Failed: 102578.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:17,637 - ERROR - Failed: 110180.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:17,719 - ERROR - Failed: 125249.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:17,855 - ERROR - Failed: 137259.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:18,058 - ERROR - Failed: 141639.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:18,129 - ERROR - Failed: 149112.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:18,240 - ERROR - Failed: 149410.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:18,381 - ERROR - Failed: 151904.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:18,498 - ERROR - Failed: 92937.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:17:18,606 - ERROR - Failed: 94979.jpg - generate_thumbnail() got an unexpected keyword argument 'max_size'
+2026-04-10 20:18:32,613 - INFO - Batch processing 10 images from data\raw\images
+2026-04-10 20:18:33,878 - INFO - Converted 102578.jpg to WebP
+2026-04-10 20:18:33,881 - WARNING - No EXIF data found in data\raw\images\102578.jpg
+2026-04-10 20:18:33,953 - INFO - MongoDB Insert Successful: ID 69d93ef954ab1739ebaaac52 | Type: image_processing
+2026-04-10 20:18:34,651 - INFO - Converted 110180.jpg to WebP
+2026-04-10 20:18:34,654 - WARNING - No EXIF data found in data\raw\images\110180.jpg
+2026-04-10 20:18:34,658 - INFO - MongoDB Insert Successful: ID 69d93efa54ab1739ebaaac53 | Type: image_processing
+2026-04-10 20:18:35,553 - INFO - Converted 125249.jpg to WebP
+2026-04-10 20:18:35,555 - WARNING - No EXIF data found in data\raw\images\125249.jpg
+2026-04-10 20:18:35,559 - INFO - MongoDB Insert Successful: ID 69d93efb54ab1739ebaaac54 | Type: image_processing
+2026-04-10 20:18:36,208 - INFO - Converted 137259.jpg to WebP
+2026-04-10 20:18:36,210 - WARNING - No EXIF data found in data\raw\images\137259.jpg
+2026-04-10 20:18:36,214 - INFO - MongoDB Insert Successful: ID 69d93efc54ab1739ebaaac55 | Type: image_processing
+2026-04-10 20:18:36,760 - INFO - Converted 141639.jpg to WebP
+2026-04-10 20:18:36,769 - INFO - MongoDB Insert Successful: ID 69d93efc54ab1739ebaaac56 | Type: image_processing
+2026-04-10 20:18:37,214 - INFO - Converted 149112.jpg to WebP
+2026-04-10 20:18:37,216 - WARNING - No EXIF data found in data\raw\images\149112.jpg
+2026-04-10 20:18:37,220 - INFO - MongoDB Insert Successful: ID 69d93efd54ab1739ebaaac57 | Type: image_processing
+2026-04-10 20:18:37,969 - INFO - Converted 149410.jpg to WebP
+2026-04-10 20:18:37,971 - WARNING - No EXIF data found in data\raw\images\149410.jpg
+2026-04-10 20:18:37,975 - INFO - MongoDB Insert Successful: ID 69d93efd54ab1739ebaaac58 | Type: image_processing
+2026-04-10 20:18:39,140 - INFO - Converted 151904.jpg to WebP
+2026-04-10 20:18:39,143 - WARNING - No EXIF data found in data\raw\images\151904.jpg
+2026-04-10 20:18:39,146 - INFO - MongoDB Insert Successful: ID 69d93eff54ab1739ebaaac59 | Type: image_processing
+2026-04-10 20:18:40,163 - INFO - Converted 92937.jpg to WebP
+2026-04-10 20:18:40,172 - WARNING - No EXIF data found in data\raw\images\92937.jpg
+2026-04-10 20:18:40,175 - INFO - MongoDB Insert Successful: ID 69d93f0054ab1739ebaaac5a | Type: image_processing
+2026-04-10 20:18:40,890 - INFO - Converted 94979.jpg to WebP
+2026-04-10 20:18:40,898 - WARNING - No EXIF data found in data\raw\images\94979.jpg
+2026-04-10 20:18:40,902 - INFO - MongoDB Insert Successful: ID 69d93f0054ab1739ebaaac5b | Type: image_processing
+2026-04-10 20:18:40,904 - WARNING - upload_batch utility not found.
+2026-04-10 20:19:50,424 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:19:53,827 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:19:53,840 - INFO - MongoDB Insert Successful: ID 69d93f4930141ef472cea53b | Type: image_processing
+2026-04-10 20:19:55,867 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:19:55,875 - INFO - MongoDB Insert Successful: ID 69d93f4b30141ef472cea53c | Type: image_processing
+2026-04-10 20:27:18,438 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:27:21,447 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:27:21,485 - INFO - MongoDB Insert Successful: ID 69d941093cee5b5abb26499f | Type: image_processing
+2026-04-10 20:27:23,584 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:27:23,603 - INFO - MongoDB Insert Successful: ID 69d9410b3cee5b5abb2649a0 | Type: image_processing
+2026-04-10 20:42:06,326 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:42:09,079 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:42:09,094 - INFO - MongoDB Insert Successful: ID 69d9448147b9dc997c8129ed | Type: image_processing
+2026-04-10 20:42:11,018 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:42:11,024 - INFO - MongoDB Insert Successful: ID 69d9448347b9dc997c8129ee | Type: image_processing
+2026-04-10 20:44:18,129 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:44:21,431 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:44:21,466 - INFO - MongoDB Insert Successful: ID 69d945054d61216147fb8793 | Type: image_processing
+2026-04-10 20:44:23,568 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:44:23,575 - INFO - MongoDB Insert Successful: ID 69d945074d61216147fb8794 | Type: image_processing
+2026-04-10 20:46:02,189 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:46:06,219 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:46:06,258 - INFO - MongoDB Insert Successful: ID 69d9456ec8f6bbd39b770423 | Type: image_processing
+2026-04-10 20:46:08,511 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:46:08,520 - INFO - MongoDB Insert Successful: ID 69d94570c8f6bbd39b770424 | Type: image_processing
+2026-04-10 20:46:31,680 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:46:34,865 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:46:34,912 - INFO - MongoDB Insert Successful: ID 69d9458a2cc83594e3522b6e | Type: image_processing
+2026-04-10 20:46:36,937 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:46:36,945 - INFO - MongoDB Insert Successful: ID 69d9458c2cc83594e3522b6f | Type: image_processing
+2026-04-10 20:46:37,570 - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=422190998759-a7253rq2784vvps7b25bhr7v4j4kctb4.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A51361%2F&scope=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F1%2Ffolders%2F1FGHtBnnoJVvjeAzwpCm61zhvZiubNrmk&state=eFXaoNzYLb1M4wqOajGmj6XnkkYHTj&code_challenge=vczMBS9rVLLwgwCB9XmvLl1lMoROK6pP_t7El2fQB4w&code_challenge_method=S256&access_type=offline
+2026-04-10 20:50:53,932 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:50:59,944 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:50:59,975 - INFO - MongoDB Insert Successful: ID 69d9469352406429d84f9b9f | Type: image_processing
+2026-04-10 20:51:03,462 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:51:03,491 - INFO - MongoDB Insert Successful: ID 69d9469752406429d84f9ba0 | Type: image_processing
+2026-04-10 20:51:04,586 - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=422190998759-a7253rq2784vvps7b25bhr7v4j4kctb4.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A51105%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=ftOHKMdCRDPYKJnq1ZuCyfy4Y5CikR&code_challenge=FcnF5Ij25bhLXRFEv4gPi3HVLGkGtubOGDdUtWhLzW0&code_challenge_method=S256&access_type=offline
+2026-04-10 20:51:39,164 - INFO - "GET /?state=ftOHKMdCRDPYKJnq1ZuCyfy4Y5CikR&iss=https://accounts.google.com&code=4/0Aci98E9If45ERkGCc1EGuJyLlimynkSNPYhSDXSKbLbo_FpqMyn1jtt9PH32RoGJvKMX2w&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2026-04-10 20:51:41,945 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:51:48,160 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:51:55,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:52:00,625 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:53:04,864 - INFO - Batch processing 2 images from data\raw\exif_samples
+2026-04-10 20:53:08,461 - INFO - Converted IMG20260330174456.jpg to WebP
+2026-04-10 20:53:08,481 - INFO - MongoDB Insert Successful: ID 69d9471430f677cd5352c1e5 | Type: image_processing
+2026-04-10 20:53:11,095 - INFO - Converted Screenshot_2026-04-07-15-37-42-91_50ef9f5a0f3fc24b6f0ffc8843167fe4.jpg to WebP
+2026-04-10 20:53:11,105 - INFO - MongoDB Insert Successful: ID 69d9471730f677cd5352c1e6 | Type: image_processing
+2026-04-10 20:53:11,140 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:53:25,711 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:53:33,323 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:53:49,903 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:58:51,384 - INFO - Batch processing 10 images from data\raw\images
+2026-04-10 20:58:52,492 - INFO - Converted 102578.jpg to WebP
+2026-04-10 20:58:52,497 - WARNING - No EXIF data found in data\raw\images\102578.jpg
+2026-04-10 20:58:52,525 - INFO - MongoDB Insert Successful: ID 69d9486cfd07f5e334f39d5a | Type: image_processing
+2026-04-10 20:58:53,375 - INFO - Converted 110180.jpg to WebP
+2026-04-10 20:58:53,378 - WARNING - No EXIF data found in data\raw\images\110180.jpg
+2026-04-10 20:58:53,383 - INFO - MongoDB Insert Successful: ID 69d9486dfd07f5e334f39d5b | Type: image_processing
+2026-04-10 20:58:54,532 - INFO - Converted 125249.jpg to WebP
+2026-04-10 20:58:54,534 - WARNING - No EXIF data found in data\raw\images\125249.jpg
+2026-04-10 20:58:54,539 - INFO - MongoDB Insert Successful: ID 69d9486efd07f5e334f39d5c | Type: image_processing
+2026-04-10 20:58:55,328 - INFO - Converted 137259.jpg to WebP
+2026-04-10 20:58:55,331 - WARNING - No EXIF data found in data\raw\images\137259.jpg
+2026-04-10 20:58:55,336 - INFO - MongoDB Insert Successful: ID 69d9486ffd07f5e334f39d5d | Type: image_processing
+2026-04-10 20:58:56,047 - INFO - Converted 141639.jpg to WebP
+2026-04-10 20:58:56,055 - INFO - MongoDB Insert Successful: ID 69d94870fd07f5e334f39d5e | Type: image_processing
+2026-04-10 20:58:56,691 - INFO - Converted 149112.jpg to WebP
+2026-04-10 20:58:56,704 - WARNING - No EXIF data found in data\raw\images\149112.jpg
+2026-04-10 20:58:56,709 - INFO - MongoDB Insert Successful: ID 69d94870fd07f5e334f39d5f | Type: image_processing
+2026-04-10 20:58:57,850 - INFO - Converted 149410.jpg to WebP
+2026-04-10 20:58:57,857 - WARNING - No EXIF data found in data\raw\images\149410.jpg
+2026-04-10 20:58:57,862 - INFO - MongoDB Insert Successful: ID 69d94871fd07f5e334f39d60 | Type: image_processing
+2026-04-10 20:58:59,208 - INFO - Converted 151904.jpg to WebP
+2026-04-10 20:58:59,218 - WARNING - No EXIF data found in data\raw\images\151904.jpg
+2026-04-10 20:58:59,222 - INFO - MongoDB Insert Successful: ID 69d94873fd07f5e334f39d61 | Type: image_processing
+2026-04-10 20:59:00,190 - INFO - Converted 92937.jpg to WebP
+2026-04-10 20:59:00,193 - WARNING - No EXIF data found in data\raw\images\92937.jpg
+2026-04-10 20:59:00,196 - INFO - MongoDB Insert Successful: ID 69d94874fd07f5e334f39d62 | Type: image_processing
+2026-04-10 20:59:00,869 - INFO - Converted 94979.jpg to WebP
+2026-04-10 20:59:00,872 - WARNING - No EXIF data found in data\raw\images\94979.jpg
+2026-04-10 20:59:00,878 - INFO - MongoDB Insert Successful: ID 69d94874fd07f5e334f39d63 | Type: image_processing
+2026-04-10 20:59:00,899 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:03,222 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:05,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:07,843 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:09,890 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:11,832 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:13,985 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:16,340 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:18,319 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:20,141 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:22,382 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:24,231 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:26,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:28,323 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:30,214 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:32,148 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:34,364 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:36,411 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:38,354 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 20:59:40,197 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:06,059 - INFO - Batch processing 10 images from data\raw\images
+2026-04-10 21:01:07,590 - INFO - Converted 102578.jpg to WebP
+2026-04-10 21:01:07,595 - WARNING - No EXIF data found in data\raw\images\102578.jpg
+2026-04-10 21:01:07,615 - INFO - MongoDB Insert Successful: ID 69d948f3abd770772ff5268a | Type: image_processing
+2026-04-10 21:01:08,546 - INFO - Converted 110180.jpg to WebP
+2026-04-10 21:01:08,550 - WARNING - No EXIF data found in data\raw\images\110180.jpg
+2026-04-10 21:01:08,593 - INFO - MongoDB Insert Successful: ID 69d948f4abd770772ff5268b | Type: image_processing
+2026-04-10 21:01:09,744 - INFO - Converted 125249.jpg to WebP
+2026-04-10 21:01:09,747 - WARNING - No EXIF data found in data\raw\images\125249.jpg
+2026-04-10 21:01:09,752 - INFO - MongoDB Insert Successful: ID 69d948f5abd770772ff5268c | Type: image_processing
+2026-04-10 21:01:10,868 - INFO - Converted 137259.jpg to WebP
+2026-04-10 21:01:10,873 - WARNING - No EXIF data found in data\raw\images\137259.jpg
+2026-04-10 21:01:10,877 - INFO - MongoDB Insert Successful: ID 69d948f6abd770772ff5268d | Type: image_processing
+2026-04-10 21:01:11,567 - INFO - Converted 141639.jpg to WebP
+2026-04-10 21:01:11,576 - INFO - MongoDB Insert Successful: ID 69d948f7abd770772ff5268e | Type: image_processing
+2026-04-10 21:01:12,217 - INFO - Converted 149112.jpg to WebP
+2026-04-10 21:01:12,221 - WARNING - No EXIF data found in data\raw\images\149112.jpg
+2026-04-10 21:01:12,265 - INFO - MongoDB Insert Successful: ID 69d948f8abd770772ff5268f | Type: image_processing
+2026-04-10 21:01:13,464 - INFO - Converted 149410.jpg to WebP
+2026-04-10 21:01:13,468 - WARNING - No EXIF data found in data\raw\images\149410.jpg
+2026-04-10 21:01:13,472 - INFO - MongoDB Insert Successful: ID 69d948f9abd770772ff52690 | Type: image_processing
+2026-04-10 21:01:14,903 - INFO - Converted 151904.jpg to WebP
+2026-04-10 21:01:14,920 - WARNING - No EXIF data found in data\raw\images\151904.jpg
+2026-04-10 21:01:14,972 - INFO - MongoDB Insert Successful: ID 69d948faabd770772ff52691 | Type: image_processing
+2026-04-10 21:01:16,937 - INFO - Converted 92937.jpg to WebP
+2026-04-10 21:01:16,941 - WARNING - No EXIF data found in data\raw\images\92937.jpg
+2026-04-10 21:01:16,960 - INFO - MongoDB Insert Successful: ID 69d948fcabd770772ff52692 | Type: image_processing
+2026-04-10 21:01:17,907 - INFO - Converted 94979.jpg to WebP
+2026-04-10 21:01:17,913 - WARNING - No EXIF data found in data\raw\images\94979.jpg
+2026-04-10 21:01:17,918 - INFO - MongoDB Insert Successful: ID 69d948fdabd770772ff52693 | Type: image_processing
+2026-04-10 21:01:17,950 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:22,100 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:26,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:30,372 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:34,214 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:39,424 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:44,104 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:47,734 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:51,785 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:01:56,103 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:01,295 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:05,711 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:10,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:14,033 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:18,306 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:23,014 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:27,400 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:31,130 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:36,334 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-10 21:02:39,911 - INFO - file_cache is only supported with oauth2client<4.0.0
