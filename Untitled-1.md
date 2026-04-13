@@ -1,38 +1,20 @@
+# Art Museum Collection Pipeline
 
+An automated Python-based pipeline designed to process museum artwork images, extract metadata, and synchronize data across local storage, MongoDB, and Google Drive.
 
+## Features
+- **Image Processing**: Batch resizing, thumbnail generation, and WebP conversion using Pillow.
+- **Metadata Extraction**: Automated EXIF data retrieval (camera specs, timestamps).
+- **Database Integration**: Structured storage of image metadata and cloud URLs in MongoDB.
+- **Cloud Synchronization**: Automated upload of processed assets to Google Drive via API.
 
-#Description:
--Gather artwork metadata from museum APIs (Met, Rijksmuseum), scrape exhibition reviews, process exhibition catalogs (PDF), analyze artwork images, transcribe artist documentaries, and extract collection data from Excel.
-Collect data from museum APIs like Met, Rijksmuseum, 
+## Project Structure
+- `src/image_processing/batch.py`: Main entry point for the pipeline.
+- `src/image_processing/processor.py`: Core image manipulation logic.
+- `src/storage/mongo.py`: MongoDB connection and record building.
+- `src/utils/upload_utils.py`: Google Drive API integration.
+- `data/raw/`: Input directory for original images.
+- `data/processed/`: Output directory for resized, thumbnail, and WebP files.
 
-#Data source:
--Met 
--Rijksmuseum
--Artsearch
--Art Institute of Chicago
--Artsy
-
-#Data types:
--Img 
--pdf 
--text 
--audio 
--documents
-
-#Expected challenges:
--Finding enough materials
-
-*(collect data)
-=>
-*(store it)
-=>
-*(do the processes needed)
-=>
-*(find what is needed to be found and analzse it)
-=>
-*(creat visual reperesentations)
-=>
-*(code out a solution)
-
-#Success critirea:
-data is collected and the insightes needed are found
+![Alternate Text](/Screenshot%202026-04-08%20123011.png)
+![Alternate Text](/Screenshot%202026-04-08%20115124.png)
