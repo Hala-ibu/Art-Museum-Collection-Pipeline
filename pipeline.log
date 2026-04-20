@@ -278,3 +278,68 @@
 2026-04-10 21:02:31,130 - INFO - file_cache is only supported with oauth2client<4.0.0
 2026-04-10 21:02:36,334 - INFO - file_cache is only supported with oauth2client<4.0.0
 2026-04-10 21:02:39,911 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:28,539 - INFO - Batch processing 10 images from data\raw\images
+2026-04-15 12:47:30,002 - INFO - Converted 102578.jpg to WebP
+2026-04-15 12:47:30,005 - WARNING - No EXIF data found in data\raw\images\102578.jpg
+2026-04-15 12:47:30,015 - INFO - MongoDB Insert Successful: ID 69df6cc27ab6357f06ae5c79 | Type: image_processing
+2026-04-15 12:47:30,539 - INFO - Converted 110180.jpg to WebP
+2026-04-15 12:47:30,541 - WARNING - No EXIF data found in data\raw\images\110180.jpg
+2026-04-15 12:47:30,543 - INFO - MongoDB Insert Successful: ID 69df6cc27ab6357f06ae5c7a | Type: image_processing
+2026-04-15 12:47:31,031 - INFO - Converted 125249.jpg to WebP
+2026-04-15 12:47:31,032 - WARNING - No EXIF data found in data\raw\images\125249.jpg
+2026-04-15 12:47:31,034 - INFO - MongoDB Insert Successful: ID 69df6cc37ab6357f06ae5c7b | Type: image_processing
+2026-04-15 12:47:31,375 - INFO - Converted 137259.jpg to WebP
+2026-04-15 12:47:31,377 - WARNING - No EXIF data found in data\raw\images\137259.jpg
+2026-04-15 12:47:31,380 - INFO - MongoDB Insert Successful: ID 69df6cc37ab6357f06ae5c7c | Type: image_processing
+2026-04-15 12:47:31,733 - INFO - Converted 141639.jpg to WebP
+2026-04-15 12:47:31,737 - INFO - MongoDB Insert Successful: ID 69df6cc37ab6357f06ae5c7d | Type: image_processing
+2026-04-15 12:47:32,057 - INFO - Converted 149112.jpg to WebP
+2026-04-15 12:47:32,059 - WARNING - No EXIF data found in data\raw\images\149112.jpg
+2026-04-15 12:47:32,061 - INFO - MongoDB Insert Successful: ID 69df6cc47ab6357f06ae5c7e | Type: image_processing
+2026-04-15 12:47:32,390 - INFO - Converted 149410.jpg to WebP
+2026-04-15 12:47:32,391 - WARNING - No EXIF data found in data\raw\images\149410.jpg
+2026-04-15 12:47:32,394 - INFO - MongoDB Insert Successful: ID 69df6cc47ab6357f06ae5c7f | Type: image_processing
+2026-04-15 12:47:33,052 - INFO - Converted 151904.jpg to WebP
+2026-04-15 12:47:33,054 - WARNING - No EXIF data found in data\raw\images\151904.jpg
+2026-04-15 12:47:33,056 - INFO - MongoDB Insert Successful: ID 69df6cc57ab6357f06ae5c80 | Type: image_processing
+2026-04-15 12:47:33,690 - INFO - Converted 92937.jpg to WebP
+2026-04-15 12:47:33,691 - WARNING - No EXIF data found in data\raw\images\92937.jpg
+2026-04-15 12:47:33,694 - INFO - MongoDB Insert Successful: ID 69df6cc57ab6357f06ae5c81 | Type: image_processing
+2026-04-15 12:47:33,973 - INFO - Converted 94979.jpg to WebP
+2026-04-15 12:47:33,974 - WARNING - No EXIF data found in data\raw\images\94979.jpg
+2026-04-15 12:47:33,976 - INFO - MongoDB Insert Successful: ID 69df6cc57ab6357f06ae5c82 | Type: image_processing
+2026-04-15 12:47:36,862 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:39,324 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:43,150 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:45,847 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:50,082 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:52,865 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:47:57,288 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:00,856 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:04,560 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:07,905 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:11,581 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:15,100 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:17,746 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:21,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:24,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:28,666 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:36,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:39,979 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:45,750 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 12:48:50,782 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-20 22:38:47,942 - INFO - Loaded audio: Inception _ The Dream Sequence _ HBO Max.mp3 (MP3)
+2026-04-20 22:38:48,509 - INFO - Loaded audio: Interstellar - Christopher Nolan - Official Warner Bros..mp3 (MP3)
+2026-04-20 22:38:49,246 - INFO - Loaded audio: Interstellar – Building A Black Hole – Official Warner Bros..mp3 (MP3)
+2026-04-20 22:40:14,929 - INFO - Loaded audio: Inception _ The Dream Sequence _ HBO Max.mp3 (MP3)
+2026-04-20 22:40:15,566 - INFO - Loaded audio: Interstellar - Christopher Nolan - Official Warner Bros..mp3 (MP3)
+2026-04-20 22:40:16,179 - INFO - Loaded audio: Interstellar – Building A Black Hole – Official Warner Bros..mp3 (MP3)
+2026-04-20 22:41:36,774 - INFO - Loaded audio: Inception _ The Dream Sequence _ HBO Max.mp3 (MP3)
+2026-04-20 22:41:37,425 - INFO - Loaded audio: Interstellar - Christopher Nolan - Official Warner Bros..mp3 (MP3)
+2026-04-20 22:41:38,414 - INFO - Loaded audio: Interstellar – Building A Black Hole – Official Warner Bros..mp3 (MP3)
+2026-04-20 22:43:01,579 - INFO - Loaded audio: Inception _ The Dream Sequence _ HBO Max.mp3 (MP3)
+2026-04-20 22:43:02,224 - INFO - Loaded audio: Interstellar - Christopher Nolan - Official Warner Bros..mp3 (MP3)
+2026-04-20 22:43:02,798 - INFO - Loaded audio: Interstellar – Building A Black Hole – Official Warner Bros..mp3 (MP3)
+2026-04-20 22:46:05,504 - INFO - Loaded audio: Inception _ The Dream Sequence _ HBO Max.mp3 (MP3)
+2026-04-20 22:46:06,324 - INFO - Loaded audio: Interstellar - Christopher Nolan - Official Warner Bros..mp3 (MP3)
+2026-04-20 22:46:06,957 - INFO - Loaded audio: Interstellar – Building A Black Hole – Official Warner Bros..mp3 (MP3)
