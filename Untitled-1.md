@@ -16,5 +16,4 @@ An automated Python-based pipeline designed to process museum artwork images, ex
 - `data/raw/`: Input directory for original images.
 - `data/processed/`: Output directory for resized, thumbnail, and WebP files.
 
-![Alternate Text](/Screenshot%202026-04-08%20123011.png)
-![Alternate Text](/Screenshot%202026-04-08%20115124.png)
+![Alternate Text](/Screenshot%202026-04-20%20231352.png)

@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:15,060
+We are still pioneers, we've barely begun, our greatest accomplishments cannot
+
+2
+00:00:15,060 --> 00:00:24,699
+be behind us, because our destiny lies above us.
+
+3
+00:00:24,699 --> 00:00:30,140
+The initial impetus for the project of being to say, why not examine real possibilities?
+
+4
+00:00:30,140 --> 00:00:33,619
+Why not actually look at the real science there?
+
+5
+00:00:33,619 --> 00:00:39,659
+Luckily we had Kip and Kip is the foremost authority on all things gravitational.
+
+6
+00:00:39,659 --> 00:00:45,420
+The warping of space inside here scatters some of it back, blind scattering off with
+
+7
+00:00:45,420 --> 00:00:47,619
+the surface of a ripple ocean.
+
+8
+00:00:47,619 --> 00:00:53,219
+Neither wormholes nor black holes have been depicted in any Hollywood movie in the way that
+
+9
+00:00:53,219 --> 00:00:55,179
+they actually would appear.
+
+10
+00:00:55,179 --> 00:01:02,859
+This is the first time the depiction began with Einstein's general relativity equations.
+
+11
+00:01:02,859 --> 00:01:07,700
+The visual effects department under Paul Franklin and everybody at Double Negative took Kip's
+
+12
+00:01:07,700 --> 00:01:14,260
+mathematical data and they created real visual representations of what a black hole is meant
+
+13
+00:01:14,260 --> 00:01:15,859
+to look like.
+
+14
+00:01:15,859 --> 00:01:19,819
+The collaboration has produced visualization of things which no one had ever managed
+
+15
+00:01:19,819 --> 00:01:20,819
+to do before.
+
+16
+00:01:20,819 --> 00:01:24,379
+We've potentially may have discovered a couple of new things that were lurking there inside
+
+17
+00:01:24,379 --> 00:01:26,019
+the mathematics, inside the physics.
+
+18
+00:01:26,019 --> 00:01:32,980
+I worked out the equations that would enable him to do the gravitational lensing, so you
+
+19
+00:01:32,980 --> 00:01:38,739
+have light that comes from a star behind the black hole, it may come in, go around the
+
+20
+00:01:38,739 --> 00:01:42,180
+black hole several times and then come to the camera.
+
+21
+00:01:42,180 --> 00:01:46,180
+And so you wind up with several different images of the star.
+
+22
+00:01:46,180 --> 00:01:50,140
+The black hole warps the space so much, it just looks like you're looking at a strange
+
+23
+00:01:50,140 --> 00:01:55,260
+sort of funnel in the sky with this intensely black circle at the middle of it.
+
+24
+00:01:55,260 --> 00:02:00,579
+But the gravity of the black hole draws in all the matter from the surrounding universe.
+
+25
+00:02:00,579 --> 00:02:06,180
+And this spins out into a giant disc around the central sphere, and as it whirls in towards
+
+26
+00:02:06,180 --> 00:02:09,139
+the center, the gas gets hotter and hotter.
+
+27
+00:02:09,139 --> 00:02:13,259
+And this thing, the accretion disc around it shines brilliantly.
+
+28
+00:02:13,259 --> 00:02:17,780
+And then we found that if you then render this whole thing, you visualize it all through
+
+29
+00:02:17,780 --> 00:02:20,659
+this extraordinary gravitational lens.
+
+30
+00:02:20,659 --> 00:02:25,300
+The gravity twists this glowing disc of gas into weird shapes, and you get this extraordinary
+
+31
+00:02:25,300 --> 00:02:29,419
+sort of rainbow of fire across the top of the black hole.
+
+32
+00:02:29,419 --> 00:02:35,819
+And I saw this disc wrap up over the black hole and under the black hole, and I had known
+
+33
+00:02:35,819 --> 00:02:41,060
+it intellectually, but knowing it intellectually is completely different than seeing it, then
+
+34
+00:02:41,060 --> 00:02:42,060
+feeling it.
+
+35
+00:02:42,060 --> 00:02:46,139
+We had determined, when we started down this road, that if it didn't look like something
+
+36
+00:02:46,139 --> 00:02:50,180
+that would be comprehensible to the audience, we would have to manipulate it in some way.
+
+37
+00:02:50,180 --> 00:02:53,740
+But what we found was, as long as we didn't change the point of view too much of the camera
+
+38
+00:02:53,740 --> 00:02:58,900
+position, we could get some very understandable tactile imagery from those equations.
+
+39
+00:02:58,900 --> 00:03:00,300
+They were constantly surprising.
+
+40
+00:03:00,300 --> 00:03:03,819
+You know, spoke to the maxim that, you know, the truth can be stranger than fiction.
+
+41
+00:03:03,819 --> 00:03:07,419
+We're going to write several technical papers about this.
+
+42
+00:03:07,419 --> 00:03:13,020
+One aimed at the astrophysics community, and then it's something for the computer graphics
+
+43
+00:03:13,020 --> 00:03:18,060
+community, saying, here are some things that we've discovered about gravitational lensing
+
+44
+00:03:18,060 --> 00:03:21,620
+by rapidly spinning black holes that we never knew before.
+
+45
+00:03:21,620 --> 00:03:26,060
+So this collaboration isn't over until we've given some sense of the things that we've learned.
+
