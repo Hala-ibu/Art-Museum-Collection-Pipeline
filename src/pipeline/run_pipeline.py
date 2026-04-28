@@ -1,81 +1,68 @@
 import sys
 import os
+import logging
 from pathlib import Path
+import pandas as pd
+import numpy as np
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from analytics.numpy_ops import demonstrate_array_creation, vectorized_operations
+from analytics.data_loader import load_from_mongodb, save_to_csv, chunked_stats, optimise_dtypes
+from analytics.selector import complex_filter
+from analytics.regex_ops import perform_regex_analysis
+from analytics.quality_report import full_quality_report, save_missing_heatmap
+from analytics.explorer import plot_distributions
 
-from storage.mongo import (
-    get_db, 
-    save_to_mongo, 
-    save_transcript, 
-    process_images_and_save_metadata
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("pipeline.log"),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
-from audio_processing.loader import load_audio
-from audio_processing.processor import trim_audio, apply_fades, export_audio
+logger = logging.getLogger(__name__)
 
-from audio_processing.transcriber import (
-    transcribe_audio, 
-    save_transcript_json, 
-    save_transcript_txt, 
-    save_transcript_srt
-)
-from video_processing.loader import extract_audio_from_video
-from video_processing.frame_extractor import extract_keyframes
-from utils.logger import logging
+def run_analytics_pipeline():
+    PROCESSED_DIR = Path("data/processed/analytics")
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+    
+    RAW_CSV = PROCESSED_DIR / "raw_art_data.csv"
+    
+    logger.info("Stage 1: NumPy Foundations")
+    arrays = demonstrate_array_creation()
+    v_results = vectorized_operations(arrays['popularity'], np.random.randint(100, 1000, 4))
+    logger.info(f"Vectorized Mean: {v_results['stats']['mean']}")
 
-def run_multimedia_stage():
-    logging.info('=== Starting Art Museum Multimedia Pipeline ===')
-    db = get_db()
+    logger.info("Stage 2: Data Ingestion")
+    df = load_from_mongodb()
+    
+    if df is None or df.empty:
+        logger.error("No data found in MongoDB. Pipeline aborted.")
+        return
 
-    images_dir = Path('data/raw/images')
-    if images_dir.exists():
-        image_files = [str(f) for f in images_dir.glob('*') if f.suffix.lower() in ('.png', '.jpg', '.jpeg')]
-        process_images_and_save_metadata(image_files, movie_id="museum_asset_001")
+    save_to_csv(df, str(RAW_CSV))
+    
+    logger.info("Stage 3: Memory Optimization & Chunking")
+    df_opt = optimise_dtypes(df)
+    c_stats = chunked_stats(str(RAW_CSV))
+    logger.info(f"Global mean from chunks: {c_stats['global_mean']}")
 
-    for audio_file in Path('data/raw/audio').glob('*.mp3'):
-        try:
-            logging.info(f'Processing: {audio_file.name}')
-            
-            audio_data = load_audio(str(audio_file))
-            processed = apply_fades(trim_audio(audio_data, 0, min(30000, len(audio_data))))
-            
-            clip_path = f'data/processed/audio/{audio_file.stem}_clip.mp3'
-            export_audio(processed, clip_path)
+    logger.info("Stage 4: Selection & Filtering")
+    acclaimed, sample, subset = complex_filter(df_opt)
+    logger.info(f"Filtered subset size: {len(subset)}")
 
-            result = transcribe_audio(str(audio_file))
+    logger.info("Stage 5: Regex Analysis")
+    df_regex, crime_count = perform_regex_analysis(df_opt)
+    logger.info(f"Crime related items found: {crime_count}")
 
-            j, t, s = [f'data/processed/transcripts/{audio_file.stem}{ext}' for ext in ['.json', '.txt', '.srt']]
-            save_transcript_json(result, j)
-            save_transcript_txt(result, t)
-            save_transcript_srt(result, s)
+    logger.info("Stage 6: Quality Reporting & Visualization")
+    quality_df = full_quality_report(df_opt)
+    quality_df.to_csv(PROCESSED_DIR / "quality_audit.csv", index=False)
+    
+    save_missing_heatmap(df_opt, str(PROCESSED_DIR / "missing_heatmap.png"))
+    plot_distributions(df_opt, str(PROCESSED_DIR / "distributions.png"))
 
-            save_transcript(result, str(audio_file), source_type='audio')
-
-        except Exception as e:
-            logging.error(f'Audio Error on {audio_file.name}: {e}')
-
-    for video_file in Path('data/raw/video').glob('*.mp4'):
-        try:
-            logging.info(f'Processing Video: {video_file.name}')
-
-            extract_keyframes(str(video_file), f'data/processed/frames/{video_file.stem}/')
-
-            audio_out = f'data/processed/audio/{video_file.stem}_from_video.mp3'
-            extract_audio_from_video(str(video_file), audio_out)
-
-            result = transcribe_audio(audio_out)
-
-            save_transcript(result, str(video_file), source_type='video_extraction')
-
-        except Exception as e:
-            logging.error(f'Video Error on {video_file.name}: {e}')
-
-def run_pipeline():
-    try:
-        run_multimedia_stage()
-        logging.info("--- FULL PIPELINE FINISHED SUCCESSFULLY ---")
-    except Exception as e:
-        logging.critical(f"Pipeline crashed: {e}")
+    logger.info("Pipeline Execution Successful")
 
 if __name__ == "__main__":
-    run_pipeline()
+    run_analytics_pipeline()
