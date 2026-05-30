@@ -1,0 +1,21 @@
+Art Data Document for PDF Parsing
+The Renaissance: A Period of Artistic Rebirth Author: Art Research Dept. Date: 2024
+The Renaissance was a fervent period of European cultural, artistic, political, and
+economic "rebirth" following the Middle Ages. Generally described as taking place from
+the 14th century to the 16th century, the Renaissance promoted the rediscovery of
+classical philosophy, literature, and art.
+Key Technique: Chiaroscuro — the use of strong contrasts between light and dark,
+usually bold contrasts affecting a whole composition.
+Famous Artists
+Artist Country Movement Century
+Leonardo da Vinci Italy Renaissance 15th
+Vincent van Gogh Netherlands Post-Impressionism 19th
+Pablo Picasso Spain Cubism 20th
+Frida Kahlo Mexico Surrealism 20th
+
+Art Materials and Usage
+Material Type Common Use Difficulty
+Oil Paint Paint Canvas painting Medium
+Charcoal Drawing Sketching Easy
+Marble Sculpture Statues Hard
+Digital Tablet Digital Illustration Medium

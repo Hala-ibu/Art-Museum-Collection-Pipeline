@@ -1,0 +1,11 @@
+
+
+id,title,artist_display,date_start,date_display,department,classification,objectName,language,description,excessive_missing_col
+101.0,  STARRY NIGHT  ,Vincent van Gogh,1889,1889,PAINTING,Painting,Painting,EN ,A beautiful starry night sky.,
+102.0,The Scream,Edvard Munch,1893,1893,Prints,Print,Print,no,An expressionist masterpiece.,
+102.0,The Scream,Edvard Munch,1893,1893,Prints,Print,Print,no,An expressionist masterpiece.,Only active row
+,Guernica,Pablo Picasso,1937,1937,painting,Painting,Painting,ES-ES,An anti-war mural.,
+104.0,  ,Unknown Artist,0,c. 1950,Modern,Sculpture,Statue,fr_FR,A modern abstract piece.,
+105.0,Mona Lisa,Leonardo da Vinci,1503,1503,PAINTING,Painting,Painting,,Famous portrait painting.,
+106.0,The Kiss,Gustav Klimt,1907,1907,Painting,Painting,Painting,de-AT,A symbolist painting with gold leaf.,
+107.0,The Night Watch,Rembrandt,1642,1642,Drawings,Drawing,Drawing,nl,A monumental group portrait.,
