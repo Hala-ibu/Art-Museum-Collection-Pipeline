@@ -1,0 +1,6 @@
+id,title,artist,period,type,acquisition_cost,estimated_value,rating,country_of_origin
+ART-001,Starry Night,Vincent van Gogh,Post-Impressionism,Painting,1000000,100000000,,
+ART-002,The Scream,Edvard Munch,Expressionism,Painting,1200000,119900000,,
+ART-003,David,Michelangelo,Renaissance,Sculpture,500000,200000000,,
+ART-004,The Night Watch,Rembrandt,Dutch Golden Age,Painting,800000,150000000,,
+ART-005,Guernica,Pablo Picasso,Cubism,Painting,2000000,200000000,,

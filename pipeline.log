@@ -343,3 +343,99 @@
 2026-04-20 22:46:05,504 - INFO - Loaded audio: Inception _ The Dream Sequence _ HBO Max.mp3 (MP3)
 2026-04-20 22:46:06,324 - INFO - Loaded audio: Interstellar - Christopher Nolan - Official Warner Bros..mp3 (MP3)
 2026-04-20 22:46:06,957 - INFO - Loaded audio: Interstellar – Building A Black Hole – Official Warner Bros..mp3 (MP3)
+2026-05-30 19:23:35,328 | MasterPipeline | INFO | !!! MASTER PIPELINE STARTED: log=C:\xampp\htdocs\Art-Museum-Collection-Pipeline\pipeline.log !!!
+2026-05-30 19:23:35,339 | MasterPipeline | INFO | === Stage 1: Data Ingestion ===
+2026-05-30 19:23:35,484 | analytics.data_loader | INFO | Retrieved 0 raw art documents from MongoDB.
+2026-05-30 19:23:35,491 | MasterPipeline | WARNING | MongoDB returned no records; checking CSV fallbacks
+2026-05-30 19:23:35,527 | analytics.data_loader | INFO | Persisted dataframe seamlessly to C:\xampp\htdocs\Art-Museum-Collection-Pipeline\data\processed\analytics\raw_art_data.csv
+2026-05-30 19:23:35,528 | MasterPipeline | INFO | CSV fallback ingestion succeeded from C:\xampp\htdocs\Art-Museum-Collection-Pipeline\processed\cleaned\cleaned_data.csv
+2026-05-30 19:23:35,529 | MasterPipeline | INFO | === Stage 2: Optional Document Parsing ===
+2026-05-30 19:23:39,775 | MasterPipeline | INFO | Parsed PDF: art_tables_documentpdf.pdf
+2026-05-30 19:23:39,895 | MasterPipeline | INFO | Parsed Word document: art_tables_document.docx
+2026-05-30 19:23:39,982 | MasterPipeline | INFO | Parsed Excel workbook: Book1.xlsx
+2026-05-30 19:23:39,990 | MasterPipeline | INFO | === Stage 3: Optional Media Processing ===
+2026-05-30 19:23:40,008 | MasterPipeline | WARNING | Image metadata processing skipped: process_images_and_save_metadata() got an unexpected keyword argument 'artwork_id'
+2026-05-30 19:23:40,010 | MasterPipeline | INFO | Audio/video processing hooks are configured; add files to data/raw/audio or data/raw/video to extend this stage
+2026-05-30 19:23:40,038 | MasterPipeline | INFO | === Stage 4: Exploratory Analytics ===
+2026-05-30 19:23:40,098 | MasterPipeline | INFO | Vectorized mean: 89.8500
+2026-05-30 19:23:40,142 | MasterPipeline | INFO | Memory comparison after optimisation: {'old_memory_bytes': np.int64(2630), 'new_memory_bytes': np.int64(2535), 'reduction_pct': np.float64(3.6121673003802277)}
+2026-05-30 19:23:40,162 | MasterPipeline | INFO | Chunked stats: {'global_mean': np.float64(1766.8), 'total_rows': 5, 'distribution': {'en': 1, 'no': 1, 'de': 1, 'nl': 1}}
+2026-05-30 19:25:17,941 | MasterPipeline | INFO | !!! MASTER PIPELINE STARTED: log=C:\xampp\htdocs\Art-Museum-Collection-Pipeline\pipeline.log !!!
+2026-05-30 19:25:17,943 | MasterPipeline | INFO | === Stage 1: Data Ingestion ===
+2026-05-30 19:25:17,993 | analytics.data_loader | INFO | Retrieved 0 raw art documents from MongoDB.
+2026-05-30 19:25:17,994 | MasterPipeline | WARNING | MongoDB returned no records; checking CSV fallbacks
+2026-05-30 19:25:18,008 | analytics.data_loader | INFO | Persisted dataframe seamlessly to C:\xampp\htdocs\Art-Museum-Collection-Pipeline\data\processed\analytics\raw_art_data.csv
+2026-05-30 19:25:18,009 | MasterPipeline | INFO | CSV fallback ingestion succeeded from C:\xampp\htdocs\Art-Museum-Collection-Pipeline\data\processed\analytics\raw_art_data.csv
+2026-05-30 19:25:18,009 | MasterPipeline | INFO | === Stage 2: Optional Document Parsing ===
+2026-05-30 19:25:18,643 | MasterPipeline | INFO | Parsed PDF: art_tables_documentpdf.pdf
+2026-05-30 19:25:18,660 | MasterPipeline | INFO | Parsed Word document: art_tables_document.docx
+2026-05-30 19:25:18,673 | MasterPipeline | INFO | Parsed Excel workbook: Book1.xlsx
+2026-05-30 19:25:18,673 | MasterPipeline | INFO | === Stage 3: Optional Media Processing ===
+2026-05-30 19:25:18,674 | MasterPipeline | WARNING | Image metadata processing skipped: process_images_and_save_metadata() got an unexpected keyword argument 'artwork_id'
+2026-05-30 19:25:18,674 | MasterPipeline | INFO | Audio/video processing hooks are configured; add files to data/raw/audio or data/raw/video to extend this stage
+2026-05-30 19:25:18,674 | MasterPipeline | INFO | === Stage 4: Exploratory Analytics ===
+2026-05-30 19:25:18,675 | MasterPipeline | INFO | Vectorized mean: 89.8500
+2026-05-30 19:25:18,682 | MasterPipeline | INFO | Memory comparison after optimisation: {'old_memory_bytes': np.int64(2630), 'new_memory_bytes': np.int64(2535), 'reduction_pct': np.float64(3.6121673003802277)}
+2026-05-30 19:25:18,686 | MasterPipeline | INFO | Chunked stats: {'global_mean': np.float64(1766.8), 'total_rows': 5, 'distribution': {'en': 1, 'no': 1, 'de': 1, 'nl': 1}}
+2026-05-30 19:25:18,748 | MasterPipeline | INFO | Selection outputs saved: highlighted=4 sample=5 subset=5
+2026-05-30 19:25:18,756 | MasterPipeline | INFO | Regex text match count: 0
+2026-05-30 19:25:20,985 | MasterPipeline | INFO | === Stage 5: Data Cleaning ===
+2026-05-30 19:25:20,986 | cleaning.clean_pipeline | INFO | === Starting cleaning pipeline: 5 rows ===
+2026-05-30 19:25:20,987 | cleaning.clean_pipeline | INFO | Step 1: write missing-value report
+2026-05-30 19:25:20,993 | cleaning.missing_handler | INFO | Missing value report generated for 1 columns
+2026-05-30 19:25:20,994 | cleaning.clean_pipeline | INFO | Step 2: remove rows missing critical identifiers and titles
+2026-05-30 19:25:20,997 | cleaning.missing_handler | INFO | drop_rows_missing_identifiers: dropped 0 rows using ['id']
+2026-05-30 19:25:21,000 | cleaning.missing_handler | INFO | drop_rows_missing_title: dropped 0 rows
+2026-05-30 19:25:21,000 | cleaning.clean_pipeline | INFO | Step 3: drop columns with excessive missingness
+2026-05-30 19:25:21,003 | cleaning.missing_handler | INFO | drop_high_missingness_columns: no columns exceeded 0.60
+2026-05-30 19:25:21,003 | cleaning.clean_pipeline | INFO | Step 4: replace unrealistic zero year values with missing values
+2026-05-30 19:25:21,006 | cleaning.missing_handler | INFO | replace_zero_with_nan: date_start -> replaced 0 zeros
+2026-05-30 19:25:21,006 | cleaning.clean_pipeline | INFO | Step 5: normalize text fields
+2026-05-30 19:25:21,012 | cleaning.string_cleaner | INFO | clean_title: cleaned title
+2026-05-30 19:25:21,014 | cleaning.string_cleaner | INFO | clean_text_columns: cleaned artist_display
+2026-05-30 19:25:21,016 | cleaning.string_cleaner | INFO | clean_text_columns: cleaned classification
+2026-05-30 19:25:21,017 | cleaning.string_cleaner | INFO | clean_text_columns: cleaned department
+2026-05-30 19:25:21,019 | cleaning.string_cleaner | INFO | clean_text_columns: cleaned objectName
+2026-05-30 19:25:21,020 | cleaning.string_cleaner | INFO | clean_text_columns: cleaned description
+2026-05-30 19:25:21,023 | cleaning.string_cleaner | INFO | clean_overview_text: cleaned description
+2026-05-30 19:25:21,025 | cleaning.string_cleaner | INFO | clean_language_code: cleaned language
+2026-05-30 19:25:21,027 | cleaning.string_cleaner | INFO | normalize_category_case: cleaned department
+2026-05-30 19:25:21,029 | cleaning.string_cleaner | INFO | normalize_category_case: cleaned classification
+2026-05-30 19:25:21,031 | cleaning.string_cleaner | INFO | normalize_category_case: cleaned objectName
+2026-05-30 19:25:21,034 | cleaning.string_cleaner | INFO | extract_year_from_release_date: extracted release_year from date_display
+2026-05-30 19:25:21,035 | cleaning.clean_pipeline | INFO | Step 6: fill descriptive and numeric missing values
+2026-05-30 19:25:21,036 | cleaning.missing_handler | INFO | fill_missing_text: title -> filled 0 rows
+2026-05-30 19:25:21,036 | cleaning.missing_handler | INFO | fill_missing_text: artist_display -> filled 0 rows
+2026-05-30 19:25:21,037 | cleaning.missing_handler | INFO | fill_missing_text: classification -> filled 0 rows
+2026-05-30 19:25:21,039 | cleaning.missing_handler | INFO | fill_missing_text: department -> filled 0 rows
+2026-05-30 19:25:21,040 | cleaning.missing_handler | INFO | fill_missing_text: objectName -> filled 0 rows
+2026-05-30 19:25:21,041 | cleaning.missing_handler | INFO | fill_missing_text: description -> filled 0 rows
+2026-05-30 19:25:21,042 | cleaning.missing_handler | INFO | fill_numeric_with_median: date_start -> filled 0 with 1889.00
+2026-05-30 19:25:21,043 | cleaning.clean_pipeline | INFO | Step 7: remove exact, identifier, and title/date duplicates
+2026-05-30 19:25:21,046 | cleaning.deduplicator | INFO | drop_exact_duplicates: removed 0 rows
+2026-05-30 19:25:21,049 | cleaning.deduplicator | INFO | drop_duplicate_ids (id): removed 0 rows
+2026-05-30 19:25:21,051 | cleaning.deduplicator | INFO | drop_duplicate_titles: removed 0 rows using ['title', 'date_display']
+2026-05-30 19:25:21,051 | cleaning.clean_pipeline | INFO | Step 8: convert data types
+2026-05-30 19:25:21,058 | cleaning.type_converter | INFO | convert_dates: date_display -> datetime64 with 0 NaT
+2026-05-30 19:25:21,060 | cleaning.type_converter | INFO | convert_numeric_columns: id -> Int64
+2026-05-30 19:25:21,062 | cleaning.type_converter | INFO | convert_numeric_columns: date_start -> Int64
+2026-05-30 19:25:21,063 | cleaning.type_converter | INFO | convert_numeric_columns: release_year -> Int64
+2026-05-30 19:25:21,065 | cleaning.type_converter | INFO | convert_category_columns: department -> category
+2026-05-30 19:25:21,069 | cleaning.type_converter | INFO | convert_category_columns: classification -> category
+2026-05-30 19:25:21,073 | cleaning.type_converter | INFO | convert_category_columns: objectName -> category
+2026-05-30 19:25:21,075 | cleaning.type_converter | INFO | convert_category_columns: language -> category
+2026-05-30 19:25:21,077 | cleaning.clean_pipeline | INFO | Step 9: validate cleaned data
+2026-05-30 19:25:21,081 | cleaning.validator | INFO | validate_required_identifier: PASSED
+2026-05-30 19:25:21,082 | cleaning.validator | INFO | validate_no_null_titles: PASSED
+2026-05-30 19:25:21,084 | cleaning.validator | INFO | validate_no_duplicate_ids (id): PASSED
+2026-05-30 19:25:21,086 | cleaning.validator | INFO | validate_year_range (release_year): PASSED
+2026-05-30 19:25:21,090 | cleaning.validator | INFO | validate_language_codes (language): PASSED
+2026-05-30 19:25:21,090 | cleaning.validator | INFO | run_all_validations: 5 checks passed
+2026-05-30 19:25:21,102 | cleaning.clean_pipeline | INFO | Saved clean dataset to C:\xampp\htdocs\Art-Museum-Collection-Pipeline\data\processed\cleaned\art_collection_clean.csv (5 rows)
+2026-05-30 19:25:21,102 | cleaning.clean_pipeline | INFO | Saved compatibility clean dataset to processed\cleaned\clean.csv
+2026-05-30 19:25:21,103 | cleaning.clean_pipeline | INFO | Saved missing report to processed\cleaned\missing_report.csv
+2026-05-30 19:25:21,103 | cleaning.clean_pipeline | INFO | === Cleaning pipeline complete: 5 rows remain ===
+2026-05-30 19:25:21,104 | MasterPipeline | INFO | Data cleaning complete with 5 records; output=C:\xampp\htdocs\Art-Museum-Collection-Pipeline\data\processed\cleaned\art_collection_clean.csv
+2026-05-30 19:25:21,105 | MasterPipeline | INFO | === Stage 6: Final Reporting ===
+2026-05-30 19:25:21,110 | MasterPipeline | INFO | Saved cleaned summary report to C:\xampp\htdocs\Art-Museum-Collection-Pipeline\data\processed\cleaned\cleaned_summary.csv
+2026-05-30 19:25:21,111 | MasterPipeline | INFO | !!! MASTER PIPELINE COMPLETED SUCCESSFULLY !!!

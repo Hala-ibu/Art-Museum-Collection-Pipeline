@@ -1,18 +1,18 @@
 import pandas as pd
-import logging
 
-logger = logging.getLogger(__name__)
 
-def complex_filter(df: pd.DataFrame):
-    acclaimed = df.loc[df['vote_average'] >= 8.5, ['title', 'vote_average', 'popularity']]
+def complex_filter(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    if "date_start" in df.columns:
+        numeric_dates = pd.to_numeric(df["date_start"], errors="coerce")
+        highlighted = df.loc[numeric_dates < 1900].copy()
+    else:
+        highlighted = df.copy()
+
+    sample = df.head(5).copy()
+
+    available_cols = list(df.columns)
+    target_cols = [col for col in ["id", "title", "artist_display", "department", "classification"] if col in available_cols]
     
-    sample = df.iloc[::20]
-    
-    mask = (
-        df['original_language'].isin(['en', 'fr', 'it']) & 
-        df['vote_average'].between(7.0, 9.0) &
-        (df['popularity'] > 10.0)
-    )
-    filtered_subset = df[mask]
-    
-    return acclaimed, sample, filtered_subset
+    subset = df[target_cols].copy() if target_cols else df.copy()
+
+    return highlighted, sample, subset

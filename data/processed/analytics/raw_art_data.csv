@@ -1,0 +1,6 @@
+id,title,artist_display,date_start,date_display,department,classification,objectName,language,description,release_year
+101,Starry Night,Vincent van Gogh,1889,1889-01-01,Painting,Painting,Painting,en,A beautiful starry night sky.,1889
+102,The Scream,Edvard Munch,1893,1893-01-01,Prints,Print,Print,no,An expressionist masterpiece.,1893
+105,Mona Lisa,Leonardo da Vinci,1503,1503-01-01,Painting,Painting,Painting,,Famous portrait painting.,1503
+106,The Kiss,Gustav Klimt,1907,1907-01-01,Painting,Painting,Painting,de,A symbolist painting with gold leaf.,1907
+107,The Night Watch,Rembrandt,1642,1642-01-01,Drawings,Drawing,Drawing,nl,A monumental group portrait.,1642
